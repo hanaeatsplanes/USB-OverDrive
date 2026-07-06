@@ -33,3 +33,18 @@ Worked on powering the TUSB chip, added capacitors, changed to 4 layer for easyn
 ### Recording Links
 
 - https://lookout.hackclub.com/api/media/5371de7c-b3ce-4119-b6cf-2f0ea3e6ad0d/video.mp4
+
+---
+
+# USB OverDrive - Outpost Revive
+
+Total Time: 2h (lookout)
+
+## Day 1: July 6th
+Start Time: 3:00 PM
+End Time:
+Elapsed Time:
+
+I'm gonna restart this project!
+
+
