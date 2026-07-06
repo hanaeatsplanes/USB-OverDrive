@@ -48,3 +48,7 @@ Elapsed Time:
 I'm gonna restart this project!
 
 I'm gonna remove the 3.0 functionality, i don't particularly care about it since this will only be for mouses and drives and stuff.
+
+<img width="929" height="804" alt="image" src="https://github.com/user-attachments/assets/870cce65-f570-4423-a226-e93d6441bff3" />
+
+looking good :D
