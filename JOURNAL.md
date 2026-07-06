@@ -47,4 +47,4 @@ Elapsed Time:
 
 I'm gonna restart this project!
 
-
+I'm gonna remove the 3.0 functionality, i don't particularly care about it since this will only be for mouses and drives and stuff.
