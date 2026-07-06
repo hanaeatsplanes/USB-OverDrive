@@ -5264,6 +5264,12 @@
 		(uuid "12c1ceb1-d843-401d-b2ee-6712d7f594b8")
 	)
 	(junction
+		(at 292.1 316.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "13421eed-f19b-4a56-84de-ad85a2867fb5")
+	)
+	(junction
 		(at 345.44 83.82)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5324,10 +5330,28 @@
 		(uuid "39689c0d-1d22-4e3c-b020-1d2e6f5e0d26")
 	)
 	(junction
+		(at 292.1 293.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "39ab6851-4415-4e44-8755-1445fe7d81af")
+	)
+	(junction
 		(at 330.2 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39f0ad82-38ee-4707-bf10-aa328baba489")
+	)
+	(junction
+		(at 309.88 237.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3cc30176-2f03-4824-b5b2-be63386baec7")
+	)
+	(junction
+		(at 287.02 293.37)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ebedc41-f91f-4b81-8027-a814b20c0a4e")
 	)
 	(junction
 		(at 288.29 346.71)
@@ -5346,6 +5370,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3fc75222-8db1-48da-be62-052500876094")
+	)
+	(junction
+		(at 287.02 316.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40383b7b-7a7c-4543-b342-6d2dd7fc3215")
 	)
 	(junction
 		(at 482.6 334.01)
@@ -5420,6 +5450,12 @@
 		(uuid "629f66b7-98cf-43ad-b108-34a91320288c")
 	)
 	(junction
+		(at 270.51 316.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6351f4c5-299a-4e67-b833-0ecc02abbfc4")
+	)
+	(junction
 		(at 242.57 228.6)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5436,6 +5472,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6ff51a8a-0adb-43c2-87a6-5fe16180c4f5")
+	)
+	(junction
+		(at 254 238.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7227818f-6fe2-4d2b-ba8c-97c76220dfdb")
 	)
 	(junction
 		(at 509.27 344.17)
@@ -5480,6 +5522,12 @@
 		(uuid "7e6bcbc9-6b76-404b-987a-5465bb31f969")
 	)
 	(junction
+		(at 287.02 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80728a52-1828-48bc-8cd9-3ab66d740494")
+	)
+	(junction
 		(at 495.3 344.17)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5490,6 +5538,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8859713e-3bd6-46dd-8492-04a46cfed5fc")
+	)
+	(junction
+		(at 199.39 238.76)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "894eb71a-46d5-4e5c-92fe-9e44bbe83119")
 	)
 	(junction
 		(at 278.13 356.87)
@@ -5508,6 +5562,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "95df846f-b274-4fa0-9e16-58d246aa1d02")
+	)
+	(junction
+		(at 292.1 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9b986433-0b9e-4da8-9746-81fd5ceb5566")
 	)
 	(junction
 		(at 495.3 245.11)
@@ -5544,12 +5604,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ac26a333-60f9-4244-99e7-8c03becc9d06")
-	)
-	(junction
-		(at 278.13 303.53)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac9b2e0a-9240-453f-b01a-d16afdcc484e")
 	)
 	(junction
 		(at 257.81 316.23)
@@ -5714,6 +5768,12 @@
 		(uuid "e2b33254-a173-4465-a6c6-4544c789cae0")
 	)
 	(junction
+		(at 292.1 285.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e7b74386-a0a6-4f83-99a7-2f3834152c12")
+	)
+	(junction
 		(at 495.3 175.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5730,6 +5790,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea5dfb4e-ed00-40d4-94ca-31cb7293a32a")
+	)
+	(junction
+		(at 278.13 303.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1bff9d6-b900-4dc8-9966-7fc602e286e9")
 	)
 	(junction
 		(at 283.21 354.33)
@@ -5756,10 +5822,6 @@
 		(uuid "fcd03a2c-8e77-43d8-b870-ea8e51b9ba6c")
 	)
 	(no_connect
-		(at 255.27 238.76)
-		(uuid "025dc6fb-db48-4dbe-8a10-9f999a2562a9")
-	)
-	(no_connect
 		(at 317.5 144.78)
 		(uuid "05983e5b-aa29-45ff-a3da-8a3dca5883c9")
 	)
@@ -5780,16 +5842,8 @@
 		(uuid "80440985-0cf9-4720-88dc-6ba5016f8e23")
 	)
 	(no_connect
-		(at 200.66 238.76)
-		(uuid "89d9de4f-ed97-4ce7-8252-7bffc83dd5f0")
-	)
-	(no_connect
 		(at 317.5 149.86)
 		(uuid "8e08108e-9a05-4a78-ba28-6577bf2c3dc0")
-	)
-	(no_connect
-		(at 311.15 237.49)
-		(uuid "8f00ba01-5bc0-4cca-8987-409b835231cf")
 	)
 	(no_connect
 		(at 133.35 100.33)
@@ -5806,6 +5860,16 @@
 	(no_connect
 		(at 133.35 148.59)
 		(uuid "fc6cf2d5-0aed-4758-99be-9869984fbd18")
+	)
+	(wire
+		(pts
+			(xy 311.15 285.75) (xy 311.15 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0061a7bc-8127-4c34-95dd-1f4f655a6879")
 	)
 	(wire
 		(pts
@@ -5959,6 +6023,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 316.23) (xy 287.02 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1236fa49-ef6c-4c68-a6ce-68749bb02e37")
+	)
+	(wire
+		(pts
 			(xy 355.6 83.82) (xy 358.14 83.82)
 		)
 		(stroke
@@ -5966,6 +6040,16 @@
 			(type default)
 		)
 		(uuid "13dd8102-4b6c-41f5-932b-f9d0f1d390b8")
+	)
+	(wire
+		(pts
+			(xy 292.1 312.42) (xy 292.1 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13ef7860-6d73-4e4a-bde9-b022474baba7")
 	)
 	(wire
 		(pts
@@ -6039,6 +6123,16 @@
 	)
 	(wire
 		(pts
+			(xy 287.02 304.8) (xy 287.02 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "197f2534-360c-49a5-aad2-e0a7ec37a8d9")
+	)
+	(wire
+		(pts
 			(xy 509.27 100.33) (xy 516.89 100.33)
 		)
 		(stroke
@@ -6056,6 +6150,16 @@
 			(type default)
 		)
 		(uuid "1a6ab2bf-b930-4c8f-bac1-be35eaf53c18")
+	)
+	(wire
+		(pts
+			(xy 292.1 300.99) (xy 298.45 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c698991-b74d-477e-9905-3d150680e912")
 	)
 	(wire
 		(pts
@@ -6189,6 +6293,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 303.53) (xy 298.45 303.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d457714-8978-49a8-87d9-108d513505e9")
+	)
+	(wire
+		(pts
 			(xy 383.54 167.64) (xy 406.4 167.64)
 		)
 		(stroke
@@ -6196,6 +6310,16 @@
 			(type default)
 		)
 		(uuid "2e825d05-617c-43e1-a806-2fafbee0c077")
+	)
+	(wire
+		(pts
+			(xy 311.15 237.49) (xy 309.88 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3022c501-146b-4882-9403-48ebf153b274")
 	)
 	(wire
 		(pts
@@ -6319,6 +6443,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 238.76) (xy 198.12 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c1653ea-45b9-4911-8339-b91edabbd6e7")
+	)
+	(wire
+		(pts
 			(xy 255.27 316.23) (xy 257.81 316.23)
 		)
 		(stroke
@@ -6429,7 +6563,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 293.37) (xy 298.45 293.37)
+			(xy 270.51 293.37) (xy 287.02 293.37)
 		)
 		(stroke
 			(width 0)
@@ -6526,6 +6660,16 @@
 			(type default)
 		)
 		(uuid "4ab3e751-4eaa-49d0-8059-265e1bd41bb0")
+	)
+	(wire
+		(pts
+			(xy 287.02 312.42) (xy 287.02 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d3459c8-e4ba-484e-a75e-1be132906f9e")
 	)
 	(wire
 		(pts
@@ -6899,6 +7043,46 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 304.8) (xy 292.1 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cd20c09-1418-471a-af4f-c45e21c3e703")
+	)
+	(wire
+		(pts
+			(xy 254 238.76) (xy 252.73 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "805b11a4-17b0-497f-b54e-14c9dbcf7073")
+	)
+	(wire
+		(pts
+			(xy 287.02 293.37) (xy 292.1 293.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80ab7599-aa72-489b-ae48-cd951b5787d0")
+	)
+	(wire
+		(pts
+			(xy 309.88 237.49) (xy 308.61 237.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81f447e0-514a-41b4-8fda-c6bb141ef24a")
+	)
+	(wire
+		(pts
 			(xy 187.96 228.6) (xy 187.96 233.68)
 		)
 		(stroke
@@ -6936,6 +7120,16 @@
 			(type default)
 		)
 		(uuid "8370ed22-26ad-4f93-bc71-0224a4f18bd5")
+	)
+	(wire
+		(pts
+			(xy 287.02 285.75) (xy 292.1 285.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "837b4079-ca70-4f93-bae9-e88bfd1ac671")
 	)
 	(wire
 		(pts
@@ -7059,6 +7253,16 @@
 	)
 	(wire
 		(pts
+			(xy 287.02 316.23) (xy 292.1 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d728bc9-5446-4ddb-8567-0344db2cc4c7")
+	)
+	(wire
+		(pts
 			(xy 278.13 356.87) (xy 293.37 356.87)
 		)
 		(stroke
@@ -7139,6 +7343,16 @@
 	)
 	(wire
 		(pts
+			(xy 287.02 300.99) (xy 292.1 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "950c0df9-8fcf-4a12-a3ca-265c62752581")
+	)
+	(wire
+		(pts
 			(xy 255.27 369.57) (xy 252.73 369.57)
 		)
 		(stroke
@@ -7176,16 +7390,6 @@
 			(type default)
 		)
 		(uuid "970be331-4e58-44e2-8c16-8a2d38959241")
-	)
-	(wire
-		(pts
-			(xy 278.13 303.53) (xy 298.45 303.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "977a8aeb-d901-4013-8a5f-b968fd73286c")
 	)
 	(wire
 		(pts
@@ -7339,6 +7543,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 238.76) (xy 254 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa8b02cc-8378-485b-9ab8-12fd0613b061")
+	)
+	(wire
+		(pts
 			(xy 118.11 158.75) (xy 144.78 158.75)
 		)
 		(stroke
@@ -7389,6 +7603,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 238.76) (xy 200.66 238.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b252aca0-1965-48a3-b439-049520e3e0f5")
+	)
+	(wire
+		(pts
 			(xy 182.88 228.6) (xy 187.96 228.6)
 		)
 		(stroke
@@ -7396,6 +7620,16 @@
 			(type default)
 		)
 		(uuid "b2b29a44-ab2e-4490-9395-ef81497b4500")
+	)
+	(wire
+		(pts
+			(xy 292.1 293.37) (xy 298.45 293.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b31f2d00-02fb-48ed-b15b-75245cebed41")
 	)
 	(wire
 		(pts
@@ -7526,6 +7760,16 @@
 			(type default)
 		)
 		(uuid "bcb30bd8-b3c6-4d8a-a979-98f9c4895439")
+	)
+	(wire
+		(pts
+			(xy 292.1 316.23) (xy 311.15 316.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc5e0cb-7267-46ee-a9b2-9621714aaad2")
 	)
 	(wire
 		(pts
@@ -7929,6 +8173,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 285.75) (xy 311.15 285.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6f3913d-92b5-4876-81bf-f5049f3729de")
+	)
+	(wire
+		(pts
 			(xy 214.63 341.63) (xy 240.03 341.63)
 		)
 		(stroke
@@ -8079,7 +8333,7 @@
 	)
 	(wire
 		(pts
-			(xy 270.51 300.99) (xy 298.45 300.99)
+			(xy 270.51 300.99) (xy 287.02 300.99)
 		)
 		(stroke
 			(width 0)
@@ -9027,7 +9281,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0232d317-dc9c-464e-8845-0907c702f45f")
-		(property "Reference" "U2"
+		(property "Reference" "U5"
 			(at 308.61 219.71 0)
 			(effects
 				(font
@@ -9094,7 +9348,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "U2")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -9110,7 +9364,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05cb8908-d51c-460b-a574-5cef1c47a3da")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR024"
 			(at 278.13 292.1 0)
 			(effects
 				(font
@@ -9160,7 +9414,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR049")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -9176,7 +9430,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0737e1c9-a25f-4702-91d2-b0368e2d70e6")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR028"
 			(at 293.37 231.14 0)
 			(effects
 				(font
@@ -9226,7 +9480,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR036")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -9242,7 +9496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0939b047-4246-4b5a-b926-9d6e6727cf6f")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 255.27 285.75 0)
 			(effects
 				(font
@@ -9322,7 +9576,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -9338,7 +9592,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a63466c-9761-4dec-8078-9c22f9af4121")
-		(property "Reference" "C11"
+		(property "Reference" "C34"
 			(at 353.06 85.0962 0)
 			(effects
 				(font
@@ -9358,7 +9612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 350.52 86.36 0)
 			(effects
 				(font
@@ -9394,7 +9648,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C11")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -9410,7 +9664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a9a222b-5552-489c-8555-f312eb1d8955")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR022"
 			(at 265.43 148.59 0)
 			(effects
 				(font
@@ -9460,7 +9714,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR016")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -9476,7 +9730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b0bb714-f5cc-4425-8939-08c8092ac0f2")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR042"
 			(at 330.2 82.55 0)
 			(effects
 				(font
@@ -9526,7 +9780,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR02")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -9542,7 +9796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0c234d8e-a78b-42d2-81fb-39136ad051f2")
-		(property "Reference" "R8"
+		(property "Reference" "R14"
 			(at 313.69 153.67 90)
 			(effects
 				(font
@@ -9560,7 +9814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 313.69 161.798 90)
 			(effects
 				(font
@@ -9596,7 +9850,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R8")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -9612,7 +9866,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1101785c-3e12-4a9e-8530-d0e9ba194b1d")
-		(property "Reference" "R10"
+		(property "Reference" "R16"
 			(at 313.69 161.29 90)
 			(effects
 				(font
@@ -9630,7 +9884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 313.69 165.862 90)
 			(effects
 				(font
@@ -9666,7 +9920,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R10")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -9682,7 +9936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1150d110-ba5e-426d-8c7a-f5723aeb88f5")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR030"
 			(at 302.26 92.71 0)
 			(effects
 				(font
@@ -9732,7 +9986,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR04")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -9748,7 +10002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "120a11f1-8bb2-4ee9-89e4-a246d8d73d98")
-		(property "Reference" "C30"
+		(property "Reference" "C55"
 			(at 499.11 177.7999 0)
 			(effects
 				(font
@@ -9766,7 +10020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 496.2652 182.88 0)
 			(effects
 				(font
@@ -9802,7 +10056,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C30")
+					(reference "C55")
 					(unit 1)
 				)
 			)
@@ -9818,7 +10072,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1271ad7b-f3fd-4899-8c50-e4b5185c474d")
-		(property "Reference" "R20"
+		(property "Reference" "R5"
 			(at 273.05 364.4899 0)
 			(effects
 				(font
@@ -9838,7 +10092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 268.732 365.76 90)
 			(effects
 				(font
@@ -9874,7 +10128,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R20")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -9882,7 +10136,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 252.73 238.76 0)
+		(at 254 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9890,8 +10144,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "133f155a-9c29-4646-9207-b097f811eb29")
-		(property "Reference" "#PWR044"
-			(at 252.73 245.11 0)
+		(property "Reference" "#PWR018"
+			(at 254 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9900,7 +10154,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 252.73 243.84 0)
+			(at 254 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9908,7 +10162,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 252.73 238.76 0)
+			(at 254 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9917,7 +10171,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 252.73 238.76 0)
+			(at 254 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9926,7 +10180,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 252.73 238.76 0)
+			(at 254 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9940,7 +10194,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR044")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -9956,7 +10210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13dc7647-4447-4b2d-86f1-33e99d1207d4")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR019"
 			(at 255.27 322.58 0)
 			(effects
 				(font
@@ -10006,7 +10260,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR053")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -10022,7 +10276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1466808b-e080-444c-87e8-84713108845b")
-		(property "Reference" "C39"
+		(property "Reference" "C47"
 			(at 462.2863 228.6 90)
 			(effects
 				(font
@@ -10040,7 +10294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.28 234.95 0)
 			(effects
 				(font
@@ -10076,7 +10330,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C39")
+					(reference "C47")
 					(unit 1)
 				)
 			)
@@ -10092,7 +10346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17e82c12-e41d-4725-b652-9902c50710ed")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR047"
 			(at 457.2 130.81 0)
 			(effects
 				(font
@@ -10142,7 +10396,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR014")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -10158,7 +10412,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "18832360-493b-4950-b3e1-480e765e4e43")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR055"
 			(at 516.89 114.3 0)
 			(effects
 				(font
@@ -10208,7 +10462,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR012")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -10224,7 +10478,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19107e2e-f57a-483d-a307-5c546276b926")
-		(property "Reference" "R4"
+		(property "Reference" "R10"
 			(at 303.53 100.33 90)
 			(effects
 				(font
@@ -10240,7 +10494,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 303.53 108.458 90)
 			(effects
 				(font
@@ -10276,7 +10530,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R4")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -10292,7 +10546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b2686f7-eeae-4e39-b655-93de171a42f4")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR049"
 			(at 457.2 292.1 0)
 			(effects
 				(font
@@ -10342,7 +10596,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR051")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -10358,7 +10612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1e28317c-cb93-4f70-8166-1b6c5426ec38")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR010"
 			(at 203.2 226.06 0)
 			(effects
 				(font
@@ -10408,7 +10662,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR033")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -10441,7 +10695,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB3_A_Molex_48393-001"
 			(at 473.71 313.69 0)
 			(effects
 				(font
@@ -10517,7 +10771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23d8f0ab-83ce-4db1-af98-8b980724dc55")
-		(property "Reference" "FB3"
+		(property "Reference" "FB2"
 			(at 369.5192 81.28 90)
 			(effects
 				(font
@@ -10526,7 +10780,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "220 @ 100MHz"
+		(property "Value" "220 @ 100 MHz"
 			(at 369.5192 83.82 90)
 			(effects
 				(font
@@ -10535,7 +10789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 369.57 90.678 90)
 			(effects
 				(font
@@ -10571,7 +10825,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "FB3")
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -10587,7 +10841,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24eaf76b-0b5e-41e2-b116-406050876418")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR01"
 			(at 109.22 193.04 0)
 			(effects
 				(font
@@ -10637,7 +10891,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR026")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -10653,7 +10907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27c2f106-60f1-4471-86ef-db39e7f214f0")
-		(property "Reference" "C17"
+		(property "Reference" "C50"
 			(at 486.41 102.8699 0)
 			(effects
 				(font
@@ -10671,7 +10925,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 483.5652 107.95 0)
 			(effects
 				(font
@@ -10707,7 +10961,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C17")
+					(reference "C50")
 					(unit 1)
 				)
 			)
@@ -10723,7 +10977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bdbfb77-3da4-4154-93ef-5390fabef312")
-		(property "Reference" "C38"
+		(property "Reference" "C12"
 			(at 260.35 227.3238 0)
 			(effects
 				(font
@@ -10743,7 +10997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 262.89 226.06 0)
 			(effects
 				(font
@@ -10779,7 +11033,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C38")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -10810,7 +11064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB_C_Plug_JAE_DX07P024AJ1"
 			(at 121.92 118.11 0)
 			(effects
 				(font
@@ -10819,7 +11073,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/105/105444/1054440001_sd.pdf?inline\\"
 			(at 121.92 118.11 0)
 			(effects
 				(font
@@ -10925,7 +11179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f7c9115-b1aa-439e-be86-34aefd2de28f")
-		(property "Reference" "C1"
+		(property "Reference" "C38"
 			(at 461.01 64.7699 0)
 			(effects
 				(font
@@ -10945,7 +11199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 458.1652 69.85 0)
 			(effects
 				(font
@@ -10981,7 +11235,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C1")
+					(reference "C38")
 					(unit 1)
 				)
 			)
@@ -10997,7 +11251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31748556-7784-45f8-bfc6-37e63c4cf9a2")
-		(property "Reference" "C53"
+		(property "Reference" "C19"
 			(at 292.1 360.9339 0)
 			(effects
 				(font
@@ -11017,7 +11271,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 288.29 361.95 0)
 			(effects
 				(font
@@ -11053,7 +11307,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C53")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -11069,7 +11323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "338b19b5-08c7-4c6b-b738-49b96245747f")
-		(property "Reference" "C13"
+		(property "Reference" "C36"
 			(at 358.14 85.0962 0)
 			(effects
 				(font
@@ -11089,7 +11343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 355.6 86.36 0)
 			(effects
 				(font
@@ -11125,7 +11379,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C13")
+					(reference "C36")
 					(unit 1)
 				)
 			)
@@ -11141,7 +11395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3aeee8b6-907a-44ff-83ea-ea4bc98e4d80")
-		(property "Reference" "R11"
+		(property "Reference" "R2"
 			(at 139.7 168.9099 0)
 			(effects
 				(font
@@ -11159,7 +11413,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 135.382 170.18 90)
 			(effects
 				(font
@@ -11168,7 +11422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083"
 			(at 137.16 170.18 0)
 			(effects
 				(font
@@ -11195,7 +11449,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R11")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -11228,7 +11482,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB3_A_Molex_48393-001"
 			(at 473.71 152.4 0)
 			(effects
 				(font
@@ -11304,7 +11558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3b39b289-5c25-4ad3-be36-61ab80d6d576")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR021"
 			(at 257.81 226.06 0)
 			(effects
 				(font
@@ -11354,7 +11608,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR035")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -11362,7 +11616,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 278.13 307.34 180)
+		(at 278.13 307.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11370,8 +11624,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3cf7875a-2a20-4203-a8f0-cbc980ca636b")
-		(property "Reference" "R15"
-			(at 275.59 308.6101 0)
+		(property "Reference" "R7"
+			(at 280.67 306.0699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11381,7 +11635,7 @@
 			)
 		)
 		(property "Value" "10K 0402 5%"
-			(at 275.59 306.0701 0)
+			(at 280.67 308.6099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11390,8 +11644,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 279.908 307.34 90)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 276.352 307.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11426,7 +11680,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R15")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -11442,7 +11696,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f996e89-bd7f-499c-bd0b-6e23ab247a45")
-		(property "Reference" "C23"
+		(property "Reference" "C13"
 			(at 273.05 137.1599 0)
 			(effects
 				(font
@@ -11462,7 +11716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 268.2748 134.62 0)
 			(effects
 				(font
@@ -11498,7 +11752,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C23")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -11514,7 +11768,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3fb2c533-7572-4499-b826-e90071a3c9b9")
-		(property "Reference" "C51"
+		(property "Reference" "C9"
 			(at 218.44 344.1699 0)
 			(effects
 				(font
@@ -11534,7 +11788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 215.5952 349.25 0)
 			(effects
 				(font
@@ -11570,7 +11824,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C51")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -11586,7 +11840,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40957434-0b74-4ce8-9b43-4d8925d1c974")
-		(property "Reference" "R6"
+		(property "Reference" "R12"
 			(at 313.69 133.35 90)
 			(effects
 				(font
@@ -11604,7 +11858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 313.69 137.922 90)
 			(effects
 				(font
@@ -11640,7 +11894,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R6")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -11656,7 +11910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "421fb812-6b13-4f00-930b-28af329b5317")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR015"
 			(at 240.03 289.56 0)
 			(effects
 				(font
@@ -11706,7 +11960,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR048")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -11722,7 +11976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4325f5e5-30ce-422c-ab03-2c7f668dffe9")
-		(property "Reference" "C37"
+		(property "Reference" "C10"
 			(at 240.03 227.3238 0)
 			(effects
 				(font
@@ -11742,7 +11996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 242.57 226.06 0)
 			(effects
 				(font
@@ -11778,7 +12032,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C37")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -11812,7 +12066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_HC49-SD"
 			(at 265.43 132.08 0)
 			(effects
 				(font
@@ -11821,7 +12075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X49SD24MSD2SC/C2213"
 			(at 265.43 132.08 0)
 			(effects
 				(font
@@ -11864,7 +12118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "460b00fe-0d20-4716-b75e-81b17f5c5463")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR050"
 			(at 477.52 104.14 0)
 			(effects
 				(font
@@ -11914,7 +12168,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR08")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -11922,7 +12176,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 308.61 237.49 0)
+		(at 309.88 237.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11930,8 +12184,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4751f79d-d2e2-46a0-88d4-d5f10d4ed8de")
-		(property "Reference" "#PWR042"
-			(at 308.61 243.84 0)
+		(property "Reference" "#PWR038"
+			(at 309.88 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11940,7 +12194,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 308.61 242.57 0)
+			(at 309.88 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11948,7 +12202,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 308.61 237.49 0)
+			(at 309.88 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11957,7 +12211,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 308.61 237.49 0)
+			(at 309.88 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11966,7 +12220,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 308.61 237.49 0)
+			(at 309.88 237.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11980,7 +12234,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR042")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -11996,7 +12250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48c843d6-41ac-4f8b-908f-de2cd4913bfd")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR048"
 			(at 457.2 200.66 0)
 			(effects
 				(font
@@ -12046,7 +12300,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR029")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -12062,7 +12316,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4df45aa4-cece-428a-bc33-308d2d76e054")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR040"
 			(at 313.69 224.79 0)
 			(effects
 				(font
@@ -12112,7 +12366,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR031")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -12128,7 +12382,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "526a0324-6df9-437c-81b2-6b63a8efa7a6")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR04"
 			(at 147.32 97.79 0)
 			(effects
 				(font
@@ -12179,7 +12433,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR07")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -12195,7 +12449,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56bcfe4b-810f-49bc-82db-b45b2fb9a88b")
-		(property "Reference" "R7"
+		(property "Reference" "R13"
 			(at 313.69 148.59 90)
 			(effects
 				(font
@@ -12213,7 +12467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 313.69 156.718 90)
 			(effects
 				(font
@@ -12249,7 +12503,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R7")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -12265,7 +12519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57382a81-6d78-4c23-bbf0-307650d12d59")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR051"
 			(at 477.52 179.07 0)
 			(effects
 				(font
@@ -12315,7 +12569,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR022")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -12331,7 +12585,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59454876-e47f-4b00-abd8-b0aab99f24e1")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR044"
 			(at 350.52 201.93 0)
 			(effects
 				(font
@@ -12381,7 +12635,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR027")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -12397,7 +12651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a2c8075-d498-442e-80a0-6cb52819ad98")
-		(property "Reference" "C24"
+		(property "Reference" "C39"
 			(at 461.01 139.6999 0)
 			(effects
 				(font
@@ -12417,7 +12671,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 458.1652 144.78 0)
 			(effects
 				(font
@@ -12453,7 +12707,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C24")
+					(reference "C39")
 					(unit 1)
 				)
 			)
@@ -12469,7 +12723,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5a5313ad-c459-4ff6-b7cf-5489cef8e631")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR07"
 			(at 182.88 232.41 0)
 			(effects
 				(font
@@ -12519,7 +12773,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR038")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -12535,7 +12789,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5aa6413d-6b3f-4d86-82c3-d32e580caad5")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR059"
 			(at 516.89 259.08 0)
 			(effects
 				(font
@@ -12585,7 +12839,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR047")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -12601,7 +12855,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d2d27a8-c100-4837-95b9-187905b70132")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR043"
 			(at 349.25 82.55 0)
 			(effects
 				(font
@@ -12651,7 +12905,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR03")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -12666,7 +12920,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "626e30af-7073-4072-a9e6-94d5a1efd690")
-		(property "Reference" "C42"
+		(property "Reference" "C56"
 			(at 499.11 247.6499 0)
 			(effects
 				(font
@@ -12684,7 +12938,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 496.2652 252.73 0)
 			(effects
 				(font
@@ -12720,7 +12974,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C42")
+					(reference "C56")
 					(unit 1)
 				)
 			)
@@ -12736,7 +12990,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6291eb1c-abb0-420e-916e-ac6173d4d40d")
-		(property "Reference" "C28"
+		(property "Reference" "C3"
 			(at 127 168.9099 0)
 			(effects
 				(font
@@ -12754,7 +13008,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 124.1552 173.99 0)
 			(effects
 				(font
@@ -12790,7 +13044,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C28")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -12806,7 +13060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63eb4a9d-359b-4356-98dd-cf85dbd1c657")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 252.73 220.98 0)
 			(effects
 				(font
@@ -12873,7 +13127,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -12889,7 +13143,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "655d0c77-1147-4cd6-a63a-b1fda978b9fc")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR056"
 			(at 516.89 180.34 0)
 			(effects
 				(font
@@ -12940,7 +13194,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR024")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -12956,7 +13210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65725dc1-36c5-43f2-87fe-6f19ebb14922")
-		(property "Reference" "C31"
+		(property "Reference" "C1"
 			(at 113.03 191.7699 0)
 			(effects
 				(font
@@ -12974,7 +13228,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 110.1852 196.85 0)
 			(effects
 				(font
@@ -13010,7 +13264,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C31")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -13026,7 +13280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66098b88-7d31-4077-bd50-3b51f8ba6f09")
-		(property "Reference" "C48"
+		(property "Reference" "C57"
 			(at 499.11 339.0899 0)
 			(effects
 				(font
@@ -13044,7 +13298,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 496.2652 344.17 0)
 			(effects
 				(font
@@ -13080,7 +13334,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C48")
+					(reference "C57")
 					(unit 1)
 				)
 			)
@@ -13096,7 +13350,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "662b0e23-ed7f-4a68-8470-e2f642b5fcf7")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR025"
 			(at 278.13 307.34 0)
 			(effects
 				(font
@@ -13146,7 +13400,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR052")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -13162,7 +13416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "675f047b-5e4e-4d7e-8705-490224c5066c")
-		(property "Reference" "R18"
+		(property "Reference" "R8"
 			(at 280.67 344.1699 0)
 			(effects
 				(font
@@ -13182,7 +13436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 276.352 345.44 90)
 			(effects
 				(font
@@ -13218,7 +13472,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R18")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -13234,7 +13488,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67c5b591-4414-4115-bd1e-65a9f8f14b06")
-		(property "Reference" "FB2"
+		(property "Reference" "FB1"
 			(at 311.0992 81.28 90)
 			(effects
 				(font
@@ -13243,7 +13497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "220 @ 100MHZ"
+		(property "Value" "220 @ 100 MHz"
 			(at 311.0992 83.82 90)
 			(effects
 				(font
@@ -13252,7 +13506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 311.15 90.678 90)
 			(effects
 				(font
@@ -13288,7 +13542,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "FB2")
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -13304,7 +13558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6837f412-a40e-47cd-a444-1be84f3da118")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR026"
 			(at 278.13 345.44 0)
 			(effects
 				(font
@@ -13354,7 +13608,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR057")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -13370,7 +13624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "697f4693-b736-482d-9f1a-3b57be6da252")
-		(property "Reference" "R17"
+		(property "Reference" "R20"
 			(at 511.81 339.0899 0)
 			(effects
 				(font
@@ -13388,7 +13642,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 507.492 340.36 90)
 			(effects
 				(font
@@ -13397,7 +13651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083"
 			(at 509.27 340.36 0)
 			(effects
 				(font
@@ -13424,7 +13678,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R17")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -13440,7 +13694,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ac39473-0546-4f7d-9689-d8f20b11e247")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR08"
 			(at 193.04 226.06 0)
 			(effects
 				(font
@@ -13490,7 +13744,80 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR032")
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 287.02 289.56 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6b1f5c2b-d2cc-4ea6-ad08-c05eb419f378")
+		(property "Reference" "C16"
+			(at 290.83 290.8301 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 290.83 288.2901 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 287.9852 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 287.02 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 287.02 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dab66838-5687-4f47-92df-c35c4ae6458d")
+		)
+		(pin "2"
+			(uuid "7bcad36f-37d6-4623-a7cc-6dedff1d3dde")
+		)
+		(instances
+			(project "USB OverDrive"
+				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -13506,7 +13833,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6c300fcd-fd6d-4366-a5ad-3c956f603ff0")
-		(property "Reference" "C4"
+		(property "Reference" "C27"
 			(at 332.74 85.0962 0)
 			(effects
 				(font
@@ -13526,7 +13853,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 330.2 86.36 0)
 			(effects
 				(font
@@ -13562,7 +13889,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C4")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -13578,7 +13905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6cf40697-478f-4f69-8893-023fa535df30")
-		(property "Reference" "C6"
+		(property "Reference" "C29"
 			(at 337.82 85.0962 0)
 			(effects
 				(font
@@ -13598,7 +13925,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 335.28 86.36 0)
 			(effects
 				(font
@@ -13634,7 +13961,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C6")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -13650,7 +13977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6eb3b88e-8802-4737-a2a1-767779233217")
-		(property "Reference" "R3"
+		(property "Reference" "R17"
 			(at 511.81 102.8699 0)
 			(effects
 				(font
@@ -13668,7 +13995,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 507.492 104.14 90)
 			(effects
 				(font
@@ -13677,7 +14004,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083"
 			(at 509.27 104.14 0)
 			(effects
 				(font
@@ -13704,7 +14031,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R3")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -13720,7 +14047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f38ed85-00d8-4bd1-b8e7-6b1c38e6d6f2")
-		(property "Reference" "C7"
+		(property "Reference" "C30"
 			(at 342.9 85.0962 0)
 			(effects
 				(font
@@ -13740,7 +14067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 340.36 86.36 0)
 			(effects
 				(font
@@ -13776,7 +14103,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C7")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -13792,7 +14119,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f47e8c4-0272-403b-ada2-6ea8d4ba27ee")
-		(property "Reference" "C21"
+		(property "Reference" "C6"
 			(at 191.7763 129.54 90)
 			(effects
 				(font
@@ -13810,7 +14137,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 191.77 135.89 0)
 			(effects
 				(font
@@ -13846,7 +14173,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C21")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -13862,7 +14189,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f582580-8a32-4a55-bacb-db66822299e6")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR052"
 			(at 477.52 248.92 0)
 			(effects
 				(font
@@ -13912,7 +14239,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR045")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -13928,7 +14255,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7158e84a-cc45-42a6-a0d8-1fd22abbe769")
-		(property "Reference" "C15"
+		(property "Reference" "C43"
 			(at 462.2863 83.82 90)
 			(effects
 				(font
@@ -13946,7 +14273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.28 90.17 0)
 			(effects
 				(font
@@ -13982,7 +14309,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C15")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -13998,7 +14325,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73e09ff9-5b30-4bf7-9840-acc48b151c2f")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR046"
 			(at 457.2 55.88 0)
 			(effects
 				(font
@@ -14048,7 +14375,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR01")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -14064,7 +14391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "769013b5-9199-4a8d-81e3-5b5d036ae213")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR031"
 			(at 303.53 224.79 0)
 			(effects
 				(font
@@ -14114,7 +14441,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR030")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -14130,7 +14457,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "771bc09c-2868-43d1-aec5-fda7ff4b54d9")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR060"
 			(at 516.89 341.63 0)
 			(effects
 				(font
@@ -14181,7 +14508,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR055")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -14197,7 +14524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77aa7be5-75db-43c8-bb9f-87d05f483f1a")
-		(property "Reference" "R12"
+		(property "Reference" "R18"
 			(at 511.81 177.7999 0)
 			(effects
 				(font
@@ -14215,7 +14542,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 507.492 179.07 90)
 			(effects
 				(font
@@ -14224,7 +14551,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083"
 			(at 509.27 179.07 0)
 			(effects
 				(font
@@ -14251,7 +14578,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R12")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -14267,7 +14594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78c85d64-e39d-44a1-91c4-967b05ce6b55")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR029"
 			(at 303.53 106.68 0)
 			(effects
 				(font
@@ -14318,7 +14645,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR011")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -14334,7 +14661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79936cb8-883d-4b94-8f54-89603d802277")
-		(property "Reference" "C19"
+		(property "Reference" "C23"
 			(at 313.69 104.14 90)
 			(effects
 				(font
@@ -14352,7 +14679,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 317.5 110.7948 0)
 			(effects
 				(font
@@ -14388,7 +14715,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C19")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -14404,7 +14731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a1a0be3-0bdc-4a85-a961-6518a27d6cca")
-		(property "Reference" "R16"
+		(property "Reference" "R4"
 			(at 273.05 311.1499 0)
 			(effects
 				(font
@@ -14424,7 +14751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 268.732 312.42 90)
 			(effects
 				(font
@@ -14460,7 +14787,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R16")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -14476,7 +14803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a988ab2-d125-4715-a68b-2bd1f497908e")
-		(property "Reference" "C33"
+		(property "Reference" "C22"
 			(at 295.91 226.0538 0)
 			(effects
 				(font
@@ -14496,7 +14823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 298.45 224.79 0)
 			(effects
 				(font
@@ -14532,7 +14859,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C33")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -14548,7 +14875,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bd45fd5-e241-4636-87ec-f0ff54b4deb9")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR058"
 			(at 516.89 250.19 0)
 			(effects
 				(font
@@ -14599,7 +14926,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR046")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -14615,7 +14942,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e32d9ba-ba39-4c2d-bda0-3b77fc9689af")
-		(property "Reference" "R14"
+		(property "Reference" "R6"
 			(at 280.67 290.8299 0)
 			(effects
 				(font
@@ -14635,7 +14962,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 276.352 292.1 90)
 			(effects
 				(font
@@ -14671,7 +14998,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R14")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -14687,7 +15014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f8e9fd0-d3ff-48f5-8dbe-cb409e5955c3")
-		(property "Reference" "R9"
+		(property "Reference" "R15"
 			(at 313.69 156.21 90)
 			(effects
 				(font
@@ -14705,7 +15032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 313.69 164.338 90)
 			(effects
 				(font
@@ -14741,7 +15068,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R9")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -14757,7 +15084,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80050844-a9f4-46f0-b8fa-33e7d586dd06")
-		(property "Reference" "C26"
+		(property "Reference" "C46"
 			(at 462.2863 161.29 90)
 			(effects
 				(font
@@ -14775,7 +15102,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.28 167.64 0)
 			(effects
 				(font
@@ -14811,7 +15138,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C26")
+					(reference "C46")
 					(unit 1)
 				)
 			)
@@ -14827,7 +15154,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80dd462d-eda1-4146-9344-b9895738485a")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR016"
 			(at 240.03 342.9 0)
 			(effects
 				(font
@@ -14877,7 +15204,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR056")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -14893,7 +15220,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "824596ee-8831-4f97-986f-876581869f6a")
-		(property "Reference" "C29"
+		(property "Reference" "C51"
 			(at 486.41 177.7999 0)
 			(effects
 				(font
@@ -14911,7 +15238,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 483.5652 182.88 0)
 			(effects
 				(font
@@ -14947,7 +15274,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C29")
+					(reference "C51")
 					(unit 1)
 				)
 			)
@@ -14963,7 +15290,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85f3a992-fd44-4860-80e9-13d417e95b0f")
-		(property "Reference" "C3"
+		(property "Reference" "C26"
 			(at 330.2 85.0962 0)
 			(effects
 				(font
@@ -14983,7 +15310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 327.66 86.36 0)
 			(effects
 				(font
@@ -15019,7 +15346,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C3")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -15035,7 +15362,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89ab54b2-1259-4d62-bd72-ee16ec0d38a3")
-		(property "Reference" "C16"
+		(property "Reference" "C44"
 			(at 462.2863 86.36 90)
 			(effects
 				(font
@@ -15053,7 +15380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.28 92.71 0)
 			(effects
 				(font
@@ -15089,7 +15416,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C16")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -15105,7 +15432,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a22af63-f1b4-4072-a995-802f5ec32bb0")
-		(property "Reference" "C9"
+		(property "Reference" "C32"
 			(at 347.98 85.0962 0)
 			(effects
 				(font
@@ -15125,7 +15452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 345.44 86.36 0)
 			(effects
 				(font
@@ -15161,7 +15488,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C9")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -15177,7 +15504,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a6ed93e-6e83-4ce2-a7c9-941e50a8bd22")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR054"
 			(at 516.89 105.41 0)
 			(effects
 				(font
@@ -15228,7 +15555,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR010")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -15244,7 +15571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a7b1985-3070-49e0-9e92-7895a5d600f5")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR023"
 			(at 267.97 232.41 0)
 			(effects
 				(font
@@ -15294,7 +15621,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR041")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -15328,7 +15655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 444.5 146.558 90)
 			(effects
 				(font
@@ -15380,7 +15707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94888717-11f9-4531-ad11-46caec0a8763")
-		(property "Reference" "C44"
+		(property "Reference" "C41"
 			(at 461.01 300.9899 0)
 			(effects
 				(font
@@ -15400,7 +15727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 458.1652 306.07 0)
 			(effects
 				(font
@@ -15436,7 +15763,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C44")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -15452,7 +15779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95d0d0a7-c629-4708-94b4-4e42a9181059")
-		(property "Reference" "C47"
+		(property "Reference" "C53"
 			(at 486.41 339.0899 0)
 			(effects
 				(font
@@ -15470,7 +15797,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 483.5652 344.17 0)
 			(effects
 				(font
@@ -15506,7 +15833,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C47")
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -15522,7 +15849,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9678770c-092e-4076-82a2-0fd417874c7d")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR020"
 			(at 255.27 375.92 0)
 			(effects
 				(font
@@ -15572,7 +15899,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR061")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -15588,7 +15915,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96b4622a-01fe-4ac4-928d-e15a0eabfed6")
-		(property "Reference" "C27"
+		(property "Reference" "C2"
 			(at 114.3 168.9099 0)
 			(effects
 				(font
@@ -15606,7 +15933,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 111.4552 173.99 0)
 			(effects
 				(font
@@ -15642,7 +15969,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C27")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -15658,7 +15985,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99e77c7e-2c0a-43f8-91d0-f8cfe3c0fb20")
-		(property "Reference" "C14"
+		(property "Reference" "C37"
 			(at 360.68 85.0962 0)
 			(effects
 				(font
@@ -15678,7 +16005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 358.14 86.36 0)
 			(effects
 				(font
@@ -15714,7 +16041,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C14")
+					(reference "C37")
 					(unit 1)
 				)
 			)
@@ -15746,7 +16073,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 137.16 99.568 90)
 			(effects
 				(font
@@ -15789,6 +16116,151 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_US")
+		(at 292.1 289.56 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9ac525a2-3eef-4a81-9f4a-c9f036c8b36d")
+		(property "Reference" "C20"
+			(at 295.91 290.5761 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "150uF"
+			(at 295.91 288.0361 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 292.1 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 292.1 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "capacitor, US symbol"
+			(at 292.1 289.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e3a47d21-83c3-4bf8-9c39-44d696f43489")
+		)
+		(pin "2"
+			(uuid "596de06b-b67b-4918-83ab-c49ac62a81c0")
+		)
+		(instances
+			(project "USB OverDrive"
+				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
+					(reference "C20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_US")
+		(at 292.1 308.61 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9b00ca77-91d2-4e82-b783-be944f8ad071")
+		(property "Reference" "C21"
+			(at 288.29 307.5939 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "150uF"
+			(at 288.29 310.1339 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+			(at 292.1 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 292.1 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "capacitor, US symbol"
+			(at 292.1 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "55b4be89-881f-4719-80d2-008999d733d2")
+		)
+		(pin "2"
+			(uuid "d4bae7d8-1a2b-450f-882f-94cebb4f1223")
+		)
+		(instances
+			(project "USB OverDrive"
+				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
+					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 516.89 344.17 0)
 		(unit 1)
@@ -15798,7 +16270,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e04d5e7-e4b4-4d44-b51d-3dbd3377e752")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR061"
 			(at 516.89 350.52 0)
 			(effects
 				(font
@@ -15848,7 +16320,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR058")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -15864,7 +16336,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e55047c-0559-4960-bb19-48f2259198bc")
-		(property "Reference" "C35"
+		(property "Reference" "C4"
 			(at 185.42 227.3238 0)
 			(effects
 				(font
@@ -15884,7 +16356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 187.96 226.06 0)
 			(effects
 				(font
@@ -15920,7 +16392,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C35")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -15936,7 +16408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fea6ad8-a255-49a8-8431-32896e536fa8")
-		(property "Reference" "C8"
+		(property "Reference" "C31"
 			(at 345.44 85.0962 0)
 			(effects
 				(font
@@ -15956,7 +16428,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 342.9 86.36 0)
 			(effects
 				(font
@@ -15992,7 +16464,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C8")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -16000,7 +16472,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 238.76 0)
+		(at 199.39 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16008,8 +16480,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1e677e6-937e-4dcc-9473-22fb720ac2f8")
-		(property "Reference" "#PWR043"
-			(at 198.12 245.11 0)
+		(property "Reference" "#PWR09"
+			(at 199.39 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16018,7 +16490,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.12 243.84 0)
+			(at 199.39 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16026,7 +16498,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 238.76 0)
+			(at 199.39 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16035,7 +16507,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 238.76 0)
+			(at 199.39 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16044,7 +16516,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 198.12 238.76 0)
+			(at 199.39 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16058,7 +16530,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR043")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -16073,7 +16545,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2f5592f-a7c2-4c16-b74d-1c073a7f5d69")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR027"
 			(at 278.13 360.68 0)
 			(effects
 				(font
@@ -16123,7 +16595,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR060")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -16139,7 +16611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a34302f8-f3e9-4dd0-b1e3-dcca48952276")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR03"
 			(at 129.54 92.71 0)
 			(effects
 				(font
@@ -16190,7 +16662,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR06")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -16206,7 +16678,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4c0c551-3298-43e1-8ae2-76964b38363b")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR039"
 			(at 312.42 92.71 0)
 			(effects
 				(font
@@ -16256,7 +16728,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR09")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -16272,7 +16744,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a526a9e3-1108-4805-bcf2-e27b31741e7c")
-		(property "Reference" "C45"
+		(property "Reference" "C48"
 			(at 462.2863 320.04 90)
 			(effects
 				(font
@@ -16290,7 +16762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.28 326.39 0)
 			(effects
 				(font
@@ -16326,7 +16798,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C45")
+					(reference "C48")
 					(unit 1)
 				)
 			)
@@ -16343,7 +16815,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a579c726-80cd-421e-8f5b-9d266f5ff519")
-		(property "Reference" "C50"
+		(property "Reference" "C18"
 			(at 292.1 343.9161 0)
 			(effects
 				(font
@@ -16363,7 +16835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 288.29 342.9 0)
 			(effects
 				(font
@@ -16399,7 +16871,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C50")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -16415,7 +16887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6465ba8-452d-4fa9-b54d-ba9f4e0d6b53")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR014"
 			(at 237.49 232.41 0)
 			(effects
 				(font
@@ -16465,7 +16937,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR040")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -16481,7 +16953,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6dfb574-6285-42bf-aa83-81a1d765442d")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR057"
 			(at 516.89 189.23 0)
 			(effects
 				(font
@@ -16531,7 +17003,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR025")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -16547,7 +17019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a74f1d8a-9179-49a6-b1ef-259fb6dd60ac")
-		(property "Reference" "C2"
+		(property "Reference" "C25"
 			(at 322.58 85.0962 0)
 			(effects
 				(font
@@ -16567,7 +17039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 320.04 86.36 0)
 			(effects
 				(font
@@ -16603,7 +17075,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C2")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -16619,7 +17091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a79a0a3e-7011-47c3-8800-dd990975df4a")
-		(property "Reference" "C43"
+		(property "Reference" "C8"
 			(at 218.44 290.8299 0)
 			(effects
 				(font
@@ -16639,7 +17111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 215.5952 295.91 0)
 			(effects
 				(font
@@ -16675,7 +17147,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C43")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -16691,7 +17163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac851b4f-f809-4c4d-975e-b85657464a53")
-		(property "Reference" "C20"
+		(property "Reference" "C5"
 			(at 191.7763 127 90)
 			(effects
 				(font
@@ -16709,7 +17181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 191.77 133.35 0)
 			(effects
 				(font
@@ -16745,7 +17217,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C20")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -16761,7 +17233,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae6a5d1c-943e-45f0-b3d5-34cc94930cb7")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR013"
 			(at 214.63 355.6 0)
 			(effects
 				(font
@@ -16811,7 +17283,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR059")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -16827,7 +17299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aec094cc-7633-4af5-9fb1-25d9aa2992d8")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR017"
 			(at 247.65 226.06 0)
 			(effects
 				(font
@@ -16877,7 +17349,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR034")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -16892,7 +17364,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b16829b4-cf4d-4c58-9adc-10b6af8d4b3e")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR034"
 			(at 303.53 154.94 0)
 			(effects
 				(font
@@ -16943,7 +17415,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR017")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -16976,7 +17448,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB3_A_Molex_48393-001"
 			(at 473.71 222.25 0)
 			(effects
 				(font
@@ -17052,7 +17524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b95f7b95-901f-4924-b215-a99c32983e37")
-		(property "Reference" "C5"
+		(property "Reference" "C28"
 			(at 335.28 85.0962 0)
 			(effects
 				(font
@@ -17072,7 +17544,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 332.74 86.36 0)
 			(effects
 				(font
@@ -17108,7 +17580,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C5")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -17124,7 +17596,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb1ef2f2-f253-4a68-be13-d170dc6a433a")
-		(property "Reference" "C40"
+		(property "Reference" "C42"
 			(at 462.1868 231.14 90)
 			(effects
 				(font
@@ -17142,7 +17614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.1805 237.49 0)
 			(effects
 				(font
@@ -17178,7 +17650,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C40")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -17194,7 +17666,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbc32461-cb12-413a-b96d-1e57a28006f7")
-		(property "Reference" "C12"
+		(property "Reference" "C35"
 			(at 355.6 85.0962 0)
 			(effects
 				(font
@@ -17214,7 +17686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 353.06 86.36 0)
 			(effects
 				(font
@@ -17250,7 +17722,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C12")
+					(reference "C35")
 					(unit 1)
 				)
 			)
@@ -17284,7 +17756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 444.5 216.408 90)
 			(effects
 				(font
@@ -17353,7 +17825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_USB:USB3_A_Molex_48393-001"
 			(at 473.71 77.47 0)
 			(effects
 				(font
@@ -17429,7 +17901,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c57a964b-177d-435b-9184-dbc5f028ee41")
-		(property "Reference" "U6"
+		(property "Reference" "U4"
 			(at 255.27 339.09 0)
 			(effects
 				(font
@@ -17509,7 +17981,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "U6")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -17525,7 +17997,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5c7c8b4-d1e8-4e9f-9746-1565dc0dd613")
-		(property "Reference" "C34"
+		(property "Reference" "C24"
 			(at 316.23 226.0538 0)
 			(effects
 				(font
@@ -17545,7 +18017,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 318.77 224.79 0)
 			(effects
 				(font
@@ -17581,7 +18053,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C34")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -17597,7 +18069,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc15ae54-e711-45f2-b34f-084c9c6666cb")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR045"
 			(at 383.54 92.71 0)
 			(effects
 				(font
@@ -17647,7 +18119,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR05")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -17663,7 +18135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cff958e7-054a-4ab6-9d81-e89cede1311a")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR037"
 			(at 303.53 167.64 0)
 			(effects
 				(font
@@ -17714,7 +18186,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR021")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -17730,7 +18202,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1992055-74e4-4d58-ad07-d214941ac889")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR02"
 			(at 109.22 203.2 0)
 			(effects
 				(font
@@ -17780,7 +18252,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR028")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -17796,7 +18268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d55cc213-5e93-42b2-85d7-63417f7d2d22")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR035"
 			(at 303.53 160.02 0)
 			(effects
 				(font
@@ -17847,7 +18319,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR018")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -17863,7 +18335,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6e3c912-02c9-4b10-8ba8-44642a296aa7")
-		(property "Reference" "C36"
+		(property "Reference" "C7"
 			(at 205.74 227.3238 0)
 			(effects
 				(font
@@ -17883,7 +18355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 208.28 226.06 0)
 			(effects
 				(font
@@ -17919,7 +18391,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C36")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -17935,7 +18407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc58e9ee-9c68-4b1d-9757-68912f05ca66")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR011"
 			(at 213.36 232.41 0)
 			(effects
 				(font
@@ -17985,7 +18457,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR039")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -18001,7 +18473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcb39c75-585d-4eb3-87a9-eacffb5ac7c9")
-		(property "Reference" "C22"
+		(property "Reference" "C11"
 			(at 265.43 137.1599 0)
 			(effects
 				(font
@@ -18021,7 +18493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 260.6548 134.62 0)
 			(effects
 				(font
@@ -18057,7 +18529,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C22")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -18073,7 +18545,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddfe3e8b-7c8b-4359-8c5b-8b0b786d518e")
-		(property "Reference" "C18"
+		(property "Reference" "C54"
 			(at 499.11 102.8699 0)
 			(effects
 				(font
@@ -18091,7 +18563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 496.2652 107.95 0)
 			(effects
 				(font
@@ -18127,7 +18599,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C18")
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -18143,7 +18615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0844078-c29c-4496-b072-cdd382b5e94e")
-		(property "Reference" "R2"
+		(property "Reference" "R11"
 			(at 309.88 104.1401 0)
 			(effects
 				(font
@@ -18163,7 +18635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 310.642 102.87 90)
 			(effects
 				(font
@@ -18199,7 +18671,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R2")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -18215,7 +18687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e34ccaf8-a2ee-405a-949e-d7495e93ed81")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR032"
 			(at 303.53 111.76 0)
 			(effects
 				(font
@@ -18266,7 +18738,79 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR013")
+					(reference "#PWR032")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 287.02 308.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e638c0c1-e9b4-4fce-8970-aaa21dfcc658")
+		(property "Reference" "C17"
+			(at 290.83 307.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 290.83 309.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+			(at 287.9852 312.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 287.02 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 287.02 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c86c54ff-340f-4ebb-b023-023a6c16f47b")
+		)
+		(pin "2"
+			(uuid "3c9c4208-6877-4ad7-b537-27b06254a7a6")
+		)
+		(instances
+			(project "USB OverDrive"
+				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -18282,7 +18826,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6eb56ad-28ff-4beb-b3f0-afe37c10ee57")
-		(property "Reference" "C25"
+		(property "Reference" "C45"
 			(at 462.2863 158.75 90)
 			(effects
 				(font
@@ -18300,7 +18844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.28 165.1 0)
 			(effects
 				(font
@@ -18336,7 +18880,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C25")
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -18352,7 +18896,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e8039d01-0ebb-4cea-a1e0-0102f74ac3ce")
-		(property "Reference" "U3"
+		(property "Reference" "U1"
 			(at 198.12 220.98 0)
 			(effects
 				(font
@@ -18419,7 +18963,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "U3")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -18435,7 +18979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9af7b5b-9345-47e1-9652-537732266e08")
-		(property "Reference" "C52"
+		(property "Reference" "C15"
 			(at 287.02 360.6799 0)
 			(effects
 				(font
@@ -18455,7 +18999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 284.1752 365.76 0)
 			(effects
 				(font
@@ -18491,7 +19035,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C52")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -18506,7 +19050,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eab6cef7-09e7-474f-a02e-bfd661ca1570")
-		(property "Reference" "C41"
+		(property "Reference" "C52"
 			(at 486.41 247.6499 0)
 			(effects
 				(font
@@ -18524,7 +19068,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 483.5652 252.73 0)
 			(effects
 				(font
@@ -18560,7 +19104,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C41")
+					(reference "C52")
 					(unit 1)
 				)
 			)
@@ -18576,7 +19120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb41281f-fe37-479b-877e-fa9525b43d2b")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR012"
 			(at 214.63 302.26 0)
 			(effects
 				(font
@@ -18626,7 +19170,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR050")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -18642,7 +19186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ebc3208d-ef0e-4c6e-a8f8-bd9f38370a33")
-		(property "Reference" "U1"
+		(property "Reference" "U6"
 			(at 352.6633 193.04 0)
 			(effects
 				(font
@@ -18886,7 +19430,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "U1")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -18902,7 +19446,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec306ce4-7713-43b8-8cfe-8fec74bcb8c6")
-		(property "Reference" "C46"
+		(property "Reference" "C49"
 			(at 462.2863 322.58 90)
 			(effects
 				(font
@@ -18920,7 +19464,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 462.28 328.93 0)
 			(effects
 				(font
@@ -18956,7 +19500,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C46")
+					(reference "C49")
 					(unit 1)
 				)
 			)
@@ -18972,7 +19516,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec6aac8a-45f0-4ab6-92fc-7393dc7069d3")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR033"
 			(at 303.53 139.7 0)
 			(effects
 				(font
@@ -19023,7 +19567,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR015")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -19039,7 +19583,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "edde540a-3f36-4d09-8749-077b3799a6c0")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR06"
 			(at 144.78 180.34 0)
 			(effects
 				(font
@@ -19089,7 +19633,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR023")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -19104,7 +19648,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eef824de-4354-4996-8637-42bd1957201c")
-		(property "Reference" "R13"
+		(property "Reference" "R19"
 			(at 511.81 247.6499 0)
 			(effects
 				(font
@@ -19122,7 +19666,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 507.492 248.92 90)
 			(effects
 				(font
@@ -19131,7 +19675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083"
 			(at 509.27 248.92 0)
 			(effects
 				(font
@@ -19158,7 +19702,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R13")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -19174,7 +19718,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef7ae3ea-c7b1-45b1-863e-5b1c9073a4aa")
-		(property "Reference" "R19"
+		(property "Reference" "R9"
 			(at 275.59 361.9501 0)
 			(effects
 				(font
@@ -19194,7 +19738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 279.908 360.68 90)
 			(effects
 				(font
@@ -19230,7 +19774,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R19")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -19246,7 +19790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef8b3c0e-6bc9-43bb-8d23-b7df3042b3df")
-		(property "Reference" "C32"
+		(property "Reference" "C40"
 			(at 461.01 209.5499 0)
 			(effects
 				(font
@@ -19266,7 +19810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 458.1652 214.63 0)
 			(effects
 				(font
@@ -19302,7 +19846,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C32")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -19318,7 +19862,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efa0c4c4-4219-434e-ad36-3462905a8784")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR053"
 			(at 477.52 340.36 0)
 			(effects
 				(font
@@ -19368,7 +19912,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR054")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -19384,7 +19928,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f42d6874-b76e-4ff7-ae88-e409535b3807")
-		(property "Reference" "FB1"
+		(property "Reference" "FB3"
 			(at 444.4492 62.23 90)
 			(effects
 				(font
@@ -19402,7 +19946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 444.5 71.628 90)
 			(effects
 				(font
@@ -19438,7 +19982,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "FB1")
+					(reference "FB3")
 					(unit 1)
 				)
 			)
@@ -19454,7 +19998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f52ea1b5-fda2-42e3-bee5-2b1a29e00f50")
-		(property "Reference" "C10"
+		(property "Reference" "C33"
 			(at 350.52 85.0962 0)
 			(effects
 				(font
@@ -19474,7 +20018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 347.98 86.36 0)
 			(effects
 				(font
@@ -19510,7 +20054,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C10")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -19526,7 +20070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f54d3a5b-cab8-4903-beef-a28c7e93b5b3")
-		(property "Reference" "R5"
+		(property "Reference" "R3"
 			(at 265.43 116.84 90)
 			(effects
 				(font
@@ -19544,7 +20088,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 265.43 124.968 90)
 			(effects
 				(font
@@ -19553,7 +20097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083"
 			(at 265.43 123.19 0)
 			(effects
 				(font
@@ -19580,7 +20124,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R5")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -19596,7 +20140,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6a5e1e1-7d69-42b4-aed4-1f369c6f2d1e")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR05"
 			(at 142.24 171.45 0)
 			(effects
 				(font
@@ -19647,7 +20191,7 @@
 		(instances
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR020")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -19664,7 +20208,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f803dc27-e137-4bc2-b954-5cfa459ff85d")
-		(property "Reference" "C49"
+		(property "Reference" "C14"
 			(at 287.02 344.1701 0)
 			(effects
 				(font
@@ -19684,7 +20228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 284.1752 339.09 0)
 			(effects
 				(font
@@ -19720,7 +20264,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C49")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -19736,7 +20280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fbcf7d20-8d6f-45b9-aa4e-7b38c48657b5")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR041"
 			(at 323.85 231.14 0)
 			(effects
 				(font
@@ -19786,7 +20330,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR037")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -19802,7 +20346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc5ba4b0-d288-41db-9d41-bcfaa4807aa3")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR036"
 			(at 303.53 162.56 0)
 			(effects
 				(font
@@ -19853,7 +20397,7 @@
 		(instances
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR019")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -19887,7 +20431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
 			(at 444.5 307.848 90)
 			(effects
 				(font
