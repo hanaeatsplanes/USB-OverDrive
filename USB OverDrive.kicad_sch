@@ -7459,7 +7459,7 @@
 		)
 		(uuid "0f054f11-a0eb-47b1-a396-50d80f07355f")
 	)
-	(label "SHIELD"
+	(label "SHIELD4"
 		(at 511.81 323.85 180)
 		(effects
 			(font
@@ -7539,7 +7539,7 @@
 		)
 		(uuid "47004e79-17a9-41b4-a351-a6301247d26f")
 	)
-	(label "SHIELD"
+	(label "SHIELD2"
 		(at 511.81 162.56 180)
 		(effects
 			(font
@@ -7759,7 +7759,7 @@
 		)
 		(uuid "a8e85c33-a3c9-4801-8403-99d1b5423f11")
 	)
-	(label "SHIELD"
+	(label "SHIELD3"
 		(at 511.81 232.41 180)
 		(effects
 			(font
@@ -7839,7 +7839,7 @@
 		)
 		(uuid "d95afa82-0a81-413d-8b42-84b7a5d55f68")
 	)
-	(label "SHIELD"
+	(label "SHIELD1"
 		(at 511.81 87.63 180)
 		(effects
 			(font
