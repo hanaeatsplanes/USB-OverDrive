@@ -7376,7 +7376,7 @@
 		)
 		(uuid "4224f16f-d522-4795-9e65-e0cc373608b2")
 	)
-	(label "USB_DN1.DM"
+	(label "USB_DN1.DN"
 		(at 406.4 104.14 180)
 		(effects
 			(font
@@ -7396,7 +7396,7 @@
 		)
 		(uuid "45bd2b90-7ddb-4654-866c-3ff7f50afe6d")
 	)
-	(label "USB_DN4.DM"
+	(label "USB_DN4.DN"
 		(at 406.4 142.24 180)
 		(effects
 			(font
@@ -7416,7 +7416,7 @@
 		)
 		(uuid "4a861088-cff7-4739-8e46-a42acf4f4252")
 	)
-	(label "USB_DN2.DM"
+	(label "USB_DN2.DN"
 		(at 441.96 149.86 0)
 		(effects
 			(font
@@ -7496,7 +7496,7 @@
 		)
 		(uuid "8626f1ac-9812-47af-a3a0-02ad2ac03783")
 	)
-	(label "USB_DM_UP"
+	(label "USB_DN"
 		(at 311.15 127 180)
 		(effects
 			(font
@@ -7526,7 +7526,7 @@
 		)
 		(uuid "8e24c03b-449f-46de-a1ac-90a811bb2bc2")
 	)
-	(label "USB_DN4.DM"
+	(label "USB_DN4.DN"
 		(at 441.96 311.15 0)
 		(effects
 			(font
@@ -7536,7 +7536,7 @@
 		)
 		(uuid "8e556f25-61b0-4632-8e64-56b9af6e6da5")
 	)
-	(label "USB_DN3.DM"
+	(label "USB_DN3.DN"
 		(at 406.4 129.54 180)
 		(effects
 			(font
@@ -7566,7 +7566,7 @@
 		)
 		(uuid "95e7dad4-dc30-4c18-afba-fd6c25812b46")
 	)
-	(label "USB_DN3.DM"
+	(label "USB_DN3.DN"
 		(at 441.96 219.71 0)
 		(effects
 			(font
@@ -7576,7 +7576,7 @@
 		)
 		(uuid "9c233e2e-7ab0-4032-9483-67df57142940")
 	)
-	(label "USB_DN2.DM"
+	(label "USB_DN2.DN"
 		(at 406.4 116.84 180)
 		(effects
 			(font
@@ -7586,7 +7586,7 @@
 		)
 		(uuid "9c735a33-307b-4c90-9586-b7b942ba20a3")
 	)
-	(label "USB_DM_UP"
+	(label "USB_DN"
 		(at 139.7 105.41 0)
 		(effects
 			(font
@@ -7666,7 +7666,7 @@
 		)
 		(uuid "bd1464a0-84b1-42c2-8eb4-1a5c8c29841e")
 	)
-	(label "USB_DP_UP"
+	(label "USB_DP"
 		(at 139.7 110.49 0)
 		(effects
 			(font
@@ -7726,7 +7726,7 @@
 		)
 		(uuid "dc8f3440-c306-407b-af29-763a10b9be23")
 	)
-	(label "USB_DP_UP"
+	(label "USB_DP"
 		(at 311.15 124.46 180)
 		(effects
 			(font
@@ -7756,7 +7756,7 @@
 		)
 		(uuid "efe7fc9a-edfc-43e6-98b7-07f5e1245ec6")
 	)
-	(label "USB_DN1.DM"
+	(label "USB_DN1.DN"
 		(at 441.96 74.93 0)
 		(effects
 			(font
@@ -8107,7 +8107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 350.52 86.36 0)
 			(effects
 				(font
@@ -9056,7 +9056,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:USB-A-TH_C42622"
 			(at 468.63 312.42 0)
 			(effects
 				(font
@@ -9271,7 +9271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 478.4852 95.25 0)
 			(effects
 				(font
@@ -9343,7 +9343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 262.89 226.06 0)
 			(effects
 				(font
@@ -9415,7 +9415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 458.1652 69.85 0)
 			(effects
 				(font
@@ -9486,7 +9486,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:USB-A-TH_C42622"
 			(at 468.63 151.13 0)
 			(effects
 				(font
@@ -9576,7 +9576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C528968.pdf?spm=wm.fly.bg.0.pdf___wm.ssy.tc.2.tz&lcsc_vid=QwMKBAAEEVheBVRUFFkKAlQAEVZZBgZfRgcMAgAHFAUxVlNeRFJYUFdXRFRdXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 293.37 361.95 0)
 			(effects
 				(font
@@ -9639,7 +9639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 355.6 86.36 0)
 			(effects
 				(font
@@ -9991,7 +9991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 215.5952 349.25 0)
 			(effects
 				(font
@@ -10199,7 +10199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 242.57 226.06 0)
 			(effects
 				(font
@@ -10535,7 +10535,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:USB-C-SMD_14P-P0.80_MC-337"
 			(at 121.92 107.95 0)
 			(effects
 				(font
@@ -10772,7 +10772,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:USB-A-TH_C42622"
 			(at 468.63 76.2 0)
 			(effects
 				(font
@@ -11055,7 +11055,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 458.1652 144.78 0)
 			(effects
 				(font
@@ -12098,7 +12098,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 317.8048 300.99 0)
 			(effects
 				(font
@@ -12430,7 +12430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 330.2 86.36 0)
 			(effects
 				(font
@@ -12502,7 +12502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 335.28 86.36 0)
 			(effects
 				(font
@@ -12644,7 +12644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 340.36 86.36 0)
 			(effects
 				(font
@@ -13049,7 +13049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 317.5 110.7948 0)
 			(effects
 				(font
@@ -13193,7 +13193,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 298.45 224.79 0)
 			(effects
 				(font
@@ -13471,7 +13471,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 478.4852 170.18 0)
 			(effects
 				(font
@@ -13543,7 +13543,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 327.66 86.36 0)
 			(effects
 				(font
@@ -13614,7 +13614,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:USB-A-TH_C42622"
 			(at 468.63 220.98 0)
 			(effects
 				(font
@@ -13695,7 +13695,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 345.44 86.36 0)
 			(effects
 				(font
@@ -13903,7 +13903,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 458.1652 306.07 0)
 			(effects
 				(font
@@ -13973,7 +13973,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 478.4852 331.47 0)
 			(effects
 				(font
@@ -14109,7 +14109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 111.4552 146.05 0)
 			(effects
 				(font
@@ -14331,7 +14331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C528968.pdf?spm=wm.fly.bg.0.pdf___wm.ssy.tc.2.tz&lcsc_vid=QwMKBAAEEVheBVRUFFkKAlQAEVZZBgZfRgcMAgAHFAUxVlNeRFJYUFdXRFRdXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 313.69 297.18 0)
 			(effects
 				(font
@@ -14403,7 +14403,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C528968.pdf?spm=wm.fly.bg.0.pdf___wm.ssy.tc.2.tz&lcsc_vid=QwMKBAAEEVheBVRUFFkKAlQAEVZZBgZfRgcMAgAHFAUxVlNeRFJYUFdXRFRdXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 292.1 308.61 0)
 			(effects
 				(font
@@ -14532,7 +14532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 187.96 226.06 0)
 			(effects
 				(font
@@ -14604,7 +14604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 342.9 86.36 0)
 			(effects
 				(font
@@ -14950,7 +14950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C528968.pdf?spm=wm.fly.bg.0.pdf___wm.ssy.tc.2.tz&lcsc_vid=QwMKBAAEEVheBVRUFFkKAlQAEVZZBgZfRgcMAgAHFAUxVlNeRFJYUFdXRFRdXzsOAxUeFF5JWBYZEEoKFBINSQcJGk4%3D"
 			(at 313.69 350.52 0)
 			(effects
 				(font
@@ -15217,7 +15217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 215.5952 295.91 0)
 			(effects
 				(font
@@ -15487,7 +15487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 332.74 86.36 0)
 			(effects
 				(font
@@ -15559,7 +15559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 353.06 86.36 0)
 			(effects
 				(font
@@ -15797,7 +15797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 318.77 224.79 0)
 			(effects
 				(font
@@ -16069,7 +16069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 208.28 226.06 0)
 			(effects
 				(font
@@ -16488,7 +16488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 287.9852 312.42 0)
 			(effects
 				(font
@@ -16643,7 +16643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 289.2552 365.76 0)
 			(effects
 				(font
@@ -16712,7 +16712,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 478.4852 240.03 0)
 			(effects
 				(font
@@ -17124,7 +17124,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 458.1652 214.63 0)
 			(effects
 				(font
@@ -17332,7 +17332,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 347.98 86.36 0)
 			(effects
 				(font
@@ -17475,7 +17475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 317.8048 354.33 0)
 			(effects
 				(font
