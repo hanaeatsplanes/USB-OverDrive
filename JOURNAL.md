@@ -1,5 +1,7 @@
 # USB OverDrive — Journal Export
 
+Total Time: 5 hours
+
 - Exported at: 2026-07-06T19:14:23Z
 - Project ID: 4151
 - Entries: 2
@@ -42,8 +44,8 @@ Total Time: 2h (lookout)
 
 ## Day 1: July 6th
 Start Time: 3:00 PM
-End Time:
-Elapsed Time:
+End Time: 12:00 AM
+Elapsed Time: 3 hours
 
 I'm gonna restart this project!
 
@@ -53,4 +55,10 @@ I'm gonna remove the 3.0 functionality, i don't particularly care about it since
 
 looking good :D
 
-okay now its time to route!
+time to route! 
+
+<img width="397" height="619" alt="image" src="https://github.com/user-attachments/assets/3b9f95bf-6434-402a-a0c6-df031b0bbfee" />
+
+<img width="550" height="446" alt="image" src="https://github.com/user-attachments/assets/9cddb979-92db-49b9-8494-122473aca957" />
+
+pcbing it
