@@ -4698,12 +4698,6 @@
 		(uuid "0f6c73f3-8dad-4c06-bed5-05f763fc57b7")
 	)
 	(junction
-		(at 457.2 306.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0fd08abc-70bc-492b-b8af-d77315541d2d")
-	)
-	(junction
 		(at 504.19 87.63)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4774,12 +4768,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3650e3c3-9f40-4394-8b02-eae37766a9cc")
-	)
-	(junction
-		(at 477.52 323.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "39689c0d-1d22-4e3c-b020-1d2e6f5e0d26")
 	)
 	(junction
 		(at 330.2 88.9)
@@ -4938,12 +4926,6 @@
 		(uuid "7227818f-6fe2-4d2b-ba8c-97c76220dfdb")
 	)
 	(junction
-		(at 504.19 331.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "725e7d3d-641c-4b41-880f-d74ebdc62fee")
-	)
-	(junction
 		(at 123.19 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4974,22 +4956,10 @@
 		(uuid "7c268443-84f9-46ac-a04d-c41241345022")
 	)
 	(junction
-		(at 490.22 323.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7e6bcbc9-6b76-404b-987a-5465bb31f969")
-	)
-	(junction
 		(at 287.02 300.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "80728a52-1828-48bc-8cd9-3ab66d740494")
-	)
-	(junction
-		(at 490.22 331.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "82713011-1ee2-40c2-b4e9-d87e4ea34ac9")
 	)
 	(junction
 		(at 257.81 369.57)
@@ -5160,12 +5130,6 @@
 		(uuid "d5a89db4-e62e-49a8-8f3d-c4206b7ed0db")
 	)
 	(junction
-		(at 504.19 323.85)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d6607f50-1b14-4554-9d35-5e415932d752")
-	)
-	(junction
 		(at 332.74 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5238,6 +5202,10 @@
 		(uuid "fcd03a2c-8e77-43d8-b870-ea8e51b9ba6c")
 	)
 	(no_connect
+		(at 383.54 142.24)
+		(uuid "4ae361d1-476c-4d76-ae3a-e24d241ab41f")
+	)
+	(no_connect
 		(at 208.28 233.68)
 		(uuid "4b446f0f-c595-482d-9d17-598282fbdfef")
 	)
@@ -5264,6 +5232,18 @@
 	(no_connect
 		(at 133.35 100.33)
 		(uuid "99607ffb-fd6f-4f60-9d56-dcf160933dd5")
+	)
+	(no_connect
+		(at 383.54 139.7)
+		(uuid "b9efefaa-ea19-4ad1-ab3b-bd49064dbeb2")
+	)
+	(no_connect
+		(at 383.54 144.78)
+		(uuid "dbdfcba2-b03d-470d-a249-e3f9bdd4c1f7")
+	)
+	(no_connect
+		(at 383.54 147.32)
+		(uuid "dc2b2133-29be-4c0d-81aa-7b9792dc0276")
 	)
 	(no_connect
 		(at 317.5 167.64)
@@ -5471,16 +5451,6 @@
 	)
 	(wire
 		(pts
-			(xy 474.98 323.85) (xy 477.52 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "15e19a33-e101-4324-93c3-8e846af3df8b")
-	)
-	(wire
-		(pts
 			(xy 353.06 83.82) (xy 355.6 83.82)
 		)
 		(stroke
@@ -5518,16 +5488,6 @@
 			(type default)
 		)
 		(uuid "19e91944-1576-4292-b21d-7ed2d8a70b60")
-	)
-	(wire
-		(pts
-			(xy 477.52 331.47) (xy 490.22 331.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a6ab2bf-b930-4c8f-bac1-be35eaf53c18")
 	)
 	(wire
 		(pts
@@ -5631,16 +5591,6 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 144.78) (xy 392.43 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2890d628-59da-4687-8c76-b0a63b96a509")
-	)
-	(wire
-		(pts
 			(xy 345.44 88.9) (xy 347.98 88.9)
 		)
 		(stroke
@@ -5718,16 +5668,6 @@
 			(type default)
 		)
 		(uuid "390b9d2f-b699-4826-b50b-ff713b741e02")
-	)
-	(wire
-		(pts
-			(xy 438.15 306.07) (xy 440.69 306.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "396826e5-6a62-4252-a54c-ff9bf94bd88a")
 	)
 	(wire
 		(pts
@@ -5811,16 +5751,6 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 142.24) (xy 406.4 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43c92c3d-8ca1-4d95-ba9d-d5dadc74f33b")
-	)
-	(wire
-		(pts
 			(xy 270.51 293.37) (xy 313.69 293.37)
 		)
 		(stroke
@@ -5868,16 +5798,6 @@
 			(type default)
 		)
 		(uuid "45830583-fef6-43c8-97da-f6d63941159a")
-	)
-	(wire
-		(pts
-			(xy 464.82 313.69) (xy 441.96 313.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46fb1087-6a2c-48b0-bce2-2c8b14421e53")
 	)
 	(wire
 		(pts
@@ -6071,16 +5991,6 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 147.32) (xy 392.43 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68cee09e-a8a9-47b8-a5f9-4843172eb1cd")
-	)
-	(wire
-		(pts
 			(xy 223.52 303.53) (xy 240.03 303.53)
 		)
 		(stroke
@@ -6138,16 +6048,6 @@
 			(type default)
 		)
 		(uuid "6e46864d-09b4-4477-a5a2-1b16bb2337b1")
-	)
-	(wire
-		(pts
-			(xy 464.82 311.15) (xy 441.96 311.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e9d4013-165a-427f-b27b-da290766f2cc")
 	)
 	(wire
 		(pts
@@ -6491,16 +6391,6 @@
 	)
 	(wire
 		(pts
-			(xy 383.54 139.7) (xy 406.4 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "954b9122-9abb-47ae-ac46-d66b729d7ce9")
-	)
-	(wire
-		(pts
 			(xy 383.54 121.92) (xy 392.43 121.92)
 		)
 		(stroke
@@ -6831,16 +6721,6 @@
 	)
 	(wire
 		(pts
-			(xy 477.52 323.85) (xy 490.22 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4d0dcae-17af-4702-8441-c0499c148348")
-	)
-	(wire
-		(pts
 			(xy 332.74 83.82) (xy 335.28 83.82)
 		)
 		(stroke
@@ -6858,16 +6738,6 @@
 			(type default)
 		)
 		(uuid "b62f469c-064a-4ec8-a92f-e660d7056dc9")
-	)
-	(wire
-		(pts
-			(xy 457.2 306.07) (xy 464.82 306.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b730c3e6-0c48-4ab2-8f7e-55866ed7e484")
 	)
 	(wire
 		(pts
@@ -6948,16 +6818,6 @@
 			(type default)
 		)
 		(uuid "c4c8dcfb-52c2-4793-8503-3d9ed0087328")
-	)
-	(wire
-		(pts
-			(xy 490.22 323.85) (xy 504.19 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5dbaf27-44ad-4cc9-a32e-39b0d7b67c45")
 	)
 	(wire
 		(pts
@@ -7051,16 +6911,6 @@
 	)
 	(wire
 		(pts
-			(xy 504.19 331.47) (xy 511.81 331.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dba48746-c713-4cef-bd34-8fd8ad7c1041")
-	)
-	(wire
-		(pts
 			(xy 320.04 76.2) (xy 330.2 76.2)
 		)
 		(stroke
@@ -7078,16 +6928,6 @@
 			(type default)
 		)
 		(uuid "dcb0a339-5200-4e44-8ce4-435031f015e3")
-	)
-	(wire
-		(pts
-			(xy 504.19 323.85) (xy 511.81 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd465443-6879-4d6f-bd22-7cacd6fff44a")
 	)
 	(wire
 		(pts
@@ -7231,16 +7071,6 @@
 	)
 	(wire
 		(pts
-			(xy 474.98 321.31) (xy 474.98 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ea9a3de6-926e-4aaa-8f70-8541e39983da")
-	)
-	(wire
-		(pts
 			(xy 223.52 300.99) (xy 240.03 300.99)
 		)
 		(stroke
@@ -7268,26 +7098,6 @@
 			(type default)
 		)
 		(uuid "ee9f02e0-d35b-41a4-a193-796d23715543")
-	)
-	(wire
-		(pts
-			(xy 490.22 331.47) (xy 504.19 331.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f05200f6-dcf7-4328-be85-88cda716f88f")
-	)
-	(wire
-		(pts
-			(xy 448.31 306.07) (xy 457.2 306.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f0ee1d46-eb2e-4254-98c2-1d62b1bea356")
 	)
 	(wire
 		(pts
@@ -7399,16 +7209,6 @@
 		)
 		(uuid "03611f65-74f9-4471-8577-99f8dbf8d8e1")
 	)
-	(label "USB_DN4.DP"
-		(at 441.96 313.69 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "065347dc-5dfe-4074-8e38-77a838c2dc1a")
-	)
 	(label "OVERCUR1Z"
 		(at 336.55 295.91 180)
 		(effects
@@ -7439,16 +7239,6 @@
 		)
 		(uuid "0d5973a3-1633-4640-8ca7-a60184851c4e")
 	)
-	(label "DN4_VBUS"
-		(at 438.15 306.07 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0dbeedbf-484d-4fb3-a1da-fddad2a62f33")
-	)
 	(label "OVERCUR3Z"
 		(at 392.43 134.62 0)
 		(effects
@@ -7458,16 +7248,6 @@
 			(justify left bottom)
 		)
 		(uuid "0f054f11-a0eb-47b1-a396-50d80f07355f")
-	)
-	(label "SHIELD4"
-		(at 511.81 323.85 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "10608be1-9c06-4fa8-b03b-f739b9a892bc")
 	)
 	(label "USB_DN2.DP"
 		(at 441.96 152.4 0)
@@ -7499,16 +7279,6 @@
 		)
 		(uuid "3d78a980-8f31-4627-be3d-23f3d0fb8f30")
 	)
-	(label "OVERCUR4Z"
-		(at 392.43 147.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4224f16f-d522-4795-9e65-e0cc373608b2")
-	)
 	(label "USB_DN1.DN"
 		(at 406.4 104.14 180)
 		(effects
@@ -7528,16 +7298,6 @@
 			(justify right bottom)
 		)
 		(uuid "45bd2b90-7ddb-4654-866c-3ff7f50afe6d")
-	)
-	(label "USB_DN4.DN"
-		(at 406.4 142.24 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "47004e79-17a9-41b4-a351-a6301247d26f")
 	)
 	(label "SHIELD2"
 		(at 511.81 162.56 180)
@@ -7648,26 +7408,6 @@
 			(justify left bottom)
 		)
 		(uuid "88f8e343-0817-4fed-919e-e24bd58c8a59")
-	)
-	(label "PWRCTL_BATEN4"
-		(at 392.43 144.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e24c03b-449f-46de-a1ac-90a811bb2bc2")
-	)
-	(label "USB_DN4.DN"
-		(at 441.96 311.15 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e556f25-61b0-4632-8e64-56b9af6e6da5")
 	)
 	(label "USB_DN3.DN"
 		(at 406.4 129.54 180)
@@ -7868,16 +7608,6 @@
 			(justify right bottom)
 		)
 		(uuid "dd9a6958-6dd4-43a2-a726-a2dc8d0f736f")
-	)
-	(label "USB_DN4.DP"
-		(at 406.4 139.7 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e1793192-9a3b-4430-8f64-0fa5d8c96daf")
 	)
 	(label "PWRCTL_BATEN1"
 		(at 223.52 300.99 0)
@@ -9089,152 +8819,6 @@
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
 					(reference "R10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 457.2 298.45 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1b2686f7-eeae-4e39-b655-93de171a42f4")
-		(property "Reference" "#PWR049"
-			(at 457.2 292.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 457.2 293.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 457.2 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 457.2 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 457.2 298.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f4eb69a9-b645-4ad5-9a0a-dedb9d4215ae")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:USB_A")
-		(at 472.44 311.15 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1d7ff527-313c-40da-804e-38d5e4bed152")
-		(property "Reference" "J8"
-			(at 478.79 309.8799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "USB_A"
-			(at 478.79 312.4199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "easyeda2kicad:USB-A-TH_C42622"
-			(at 468.63 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 468.63 312.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "USB Type A connector"
-			(at 472.44 311.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "5"
-			(uuid "c018fdf4-aa9d-44f4-a20f-1b5564adc9ef")
-		)
-		(pin "4"
-			(uuid "555111df-e1cf-4808-b652-edb7134ecf83")
-		)
-		(pin "1"
-			(uuid "d3ab52c5-bd7c-4f76-8430-cdb242e1bd9e")
-		)
-		(pin "3"
-			(uuid "9b9d0038-54ff-48ab-bb34-57cd889e9e32")
-		)
-		(pin "2"
-			(uuid "0e5411e2-2909-45c5-87fe-1f12d5568744")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "J8")
 					(unit 1)
 				)
 			)
@@ -11716,76 +11300,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 490.22 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "66098b88-7d31-4077-bd50-3b51f8ba6f09")
-		(property "Reference" "C57"
-			(at 494.03 326.3899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.001uF"
-			(at 494.03 328.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 491.1852 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 490.22 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 490.22 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "574618a9-f0f0-4b74-bb83-a47220b47f71")
-		)
-		(pin "2"
-			(uuid "876755d7-5cf4-4eee-9f1b-cd4b13314f5d")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C57")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 281.94 295.91 0)
 		(unit 1)
@@ -12054,76 +11568,6 @@
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 504.19 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "697f4693-b736-482d-9f1a-3b57be6da252")
-		(property "Reference" "R20"
-			(at 506.73 326.3899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1M"
-			(at 506.73 328.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 502.412 327.66 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083"
-			(at 504.19 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 504.19 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6f09681c-e688-4b50-a81d-f156b672b7f6")
-		)
-		(pin "2"
-			(uuid "e10af7f4-b53d-4e1e-b16a-0c23633e6166")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -14002,148 +13446,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 457.2 302.26 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "94888717-11f9-4531-ad11-46caec0a8763")
-		(property "Reference" "C41"
-			(at 461.01 300.9899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 461.01 303.5299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 458.1652 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 457.2 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 457.2 302.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e981f32d-e740-4418-86d0-955979679672")
-		)
-		(pin "2"
-			(uuid "dd287d8f-2387-49ad-95be-27ff23408a6f")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 477.52 327.66 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "95d0d0a7-c629-4708-94b4-4e42a9181059")
-		(property "Reference" "C53"
-			(at 481.33 326.3899 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 481.33 328.9299 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 478.4852 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 477.52 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 477.52 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8b89d42a-b4bc-40d6-a2a6-59a6cf2a3483")
-		)
-		(pin "2"
-			(uuid "e819ae2f-313c-4d2e-9a87-cd7ce4b22a7b")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "C53")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 255.27 369.57 0)
 		(unit 1)
@@ -14559,72 +13861,6 @@
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
 					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 511.81 331.47 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9e04d5e7-e4b4-4d44-b51d-3dbd3377e752")
-		(property "Reference" "#PWR061"
-			(at 511.81 337.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 511.81 336.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 511.81 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 511.81 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 511.81 331.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "91677795-47f4-48f4-bbd8-f0a778150dfa")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -17369,72 +16605,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 472.44 321.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "efa0c4c4-4219-434e-ad36-3462905a8784")
-		(property "Reference" "#PWR053"
-			(at 472.44 327.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 472.44 326.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 472.44 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 472.44 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 472.44 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3cf82465-af80-485b-8c23-554bd5139733")
-		)
-		(instances
-			(project ""
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR053")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:FerriteBead")
 		(at 444.5 69.85 90)
 		(unit 1)
@@ -17847,76 +17017,6 @@
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
 					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:FerriteBead")
-		(at 444.5 306.07 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ffbde39e-9e2a-4a11-a6e3-18b4220bbdeb")
-		(property "Reference" "FB6"
-			(at 444.4492 298.45 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "220 @ 100 MHz"
-			(at 444.4492 300.99 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
-			(at 444.5 307.848 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 444.5 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Ferrite bead"
-			(at 444.5 306.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "e6315311-59b3-4fb5-9807-6bf12d1b6fd5")
-		)
-		(pin "1"
-			(uuid "d3847c7a-c763-4a32-9b68-0f4171ce7a42")
-		)
-		(instances
-			(project "USB OverDrive"
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "FB6")
 					(unit 1)
 				)
 			)
