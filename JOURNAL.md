@@ -65,13 +65,13 @@ pcbing it
 
 ## Day 2: July 7th
 
-start time: 2:30 PM
-end time:
-elapsed time:
-
 <img width="746" height="638" alt="image" src="https://github.com/user-attachments/assets/f4d805a0-7266-4247-ac3f-e460184947f9" />
 
 soo the purple highlighted square is how big maximum this thing can be
 and i am very outside that range
 
 i'm gonna have to remove one of the USB's, i dont think i'll be able to make it fit :<
+
+## Day 3: July 8th
+
+
