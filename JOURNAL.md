@@ -74,4 +74,11 @@ i'm gonna have to remove one of the USB's, i dont think i'll be able to make it 
 
 ## Day 3: July 8th
 
+all of today i have been suffering with edge.cuts layers. why is kicad so difficult.
+
+anyway, after getting those DRC errors fixed, im starting to work on traces:
+
+<img width="428" height="621" alt="image" src="https://github.com/user-attachments/assets/bbe78109-ba2f-4ceb-bd35-e2a376c95015" />
+
+i have the crystal and power from the upstream(? the one that goes to the laptop) done, so i just need to route D± to the TUSB and route the downstream(?) USBA ones
 
