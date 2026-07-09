@@ -1,0 +1,30 @@
+Category,Item,,Qty,Price,Link
+PCB,,,,$36.54,https://jlcpcb.com
+,PCBA,,5,$36.54,
+,,Components (24 items),,$36.54,
+Components,,,,,
+,JLCPCB,,,$36.54,https://jlcpcb.com/parts
+,,10µF 0402 capacitor,20,$0.80,https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525
+,,1nF 0402 capacitor,20,$0.23,https://jlcpcb.com/partdetail/1875-0402B102K500NT/C1523
+,,1µF 0402 capacitor,24,$0.63,https://jlcpcb.com/partdetail/53938-CL05A105KA5NQNC/C52923
+,,18pF 0402 capacitor,20,$0.16,https://jlcpcb.com/partdetail/1901-0402CG180J500NT/C1549
+,,100nF 0402 capacitor,56,$0.71,https://jlcpcb.com/partdetail/1877-CL05B104KO5NNNC/C1525
+,,150µF 1206 capacitor,6,$6.15,https://jlcpcb.com/partdetail/548784-GRM31CR60J157ME11L/C528968
+,,220Ω@100MHz 0201 ferrite bead,20,$0.08,https://jlcpcb.com/partdetail/Sunlord-GZ0603D221TF/C185895
+,,USB-A receptacle,6,$0.39,https://jlcpcb.com/partdetail/43613-905361A2031D10101/C42622
+,,JAE DX07P024AJ1 USB-C plug,2,$1.84,https://jlcpcb.com/partdetail/JAEElectronics-DX07P024AJ1R1500/C5352764
+,,5.1kΩ 0402 resistor,20,$0.03,https://jlcpcb.com/partdetail/26648-0402WGF5101TCE/C25905
+,,25.5kΩ 0402 resistor 5%,20,$0.04,https://jlcpcb.com/partdetail/FOJAN-FRC0402F2552TS/C2998160
+,,90.9kΩ 0402 resistor 1%,20,$0.04,https://jlcpcb.com/partdetail/FOJAN-FRC0402F9092TS/C2998102
+,,10kΩ 0402 resistor 1%,20,$0.50,https://jlcpcb.com/partdetail/YAGEO-RT0402BRE0710KL/C513708
+,,9.53kΩ 0402 resistor 1%,20,$0.04,https://jlcpcb.com/partdetail/FOJAN-FRC0402F9531TS/C5126160
+,,4.7kΩ 0402 resistor 5%,20,$0.02,https://jlcpcb.com/partdetail/FOJAN-FRC0402J472TS/C2906941
+,,4.7kΩ 0402 resistor,20,$0.12,https://jlcpcb.com/partdetail/26643-0402WGF4701TCE/C25900
+,,1MΩ 0402 resistor,20,$0.03,https://jlcpcb.com/partdetail/26826-0402WGF1004TCE/C26083
+,,LP5912-5.0 WSON-6 LDO,2,$1.84,https://jlcpcb.com/partdetail/TexasInstruments-LP5912_50DRVR/C2761351
+,,LP5912-3.3 WSON-6 LDO,2,$1.53,https://jlcpcb.com/partdetail/TexasInstruments-LP5912_33DRVR/C524780
+,,TPS2561 WSON-10 power switch,4,$3.61,https://jlcpcb.com/partdetail/TexasInstruments-TPS2561DRCR/C140303
+,,LP5912-1.2 WSON-6 LDO,2,$1.80,https://jlcpcb.com/partdetail/TexasInstruments-LP5912_12DRVR/C2876233
+,,TUSB4041I HTQFP-64 USB hub controller,2,$15.28,https://jlcpcb.com/partdetail/TexasInstruments-TUSB4041IPAPQ1/C2879403
+,,24MHz 3225 crystal,6,$0.66,https://jlcpcb.com/partdetail/YXC_CrystalOscillators-X322524MRB4SI/C70571
+,,10kΩ 0402 resistor 5%,20,$0.01,https://jlcpcb.com/partdetail/455452-RC02K103JT/C453512
