@@ -1,7 +1,8 @@
 Category,Item,,Qty,Price,Link
-PCB,,,,$36.54,https://jlcpcb.com
-,PCBA,,5,$36.54,
-,,Components (24 items),,$36.54,
+PCB,,,,$15.00,https://jlcpcb.com
+,PCB Prototype,,5,$15.00,
+,PCBA,,2,$128.27,
+,,Components (24 items),,$128.27,
 Components,,,,,
 ,JLCPCB,,,$36.54,https://jlcpcb.com/parts
 ,,10µF 0402 capacitor,20,$0.80,https://jlcpcb.com/partdetail/16204-CL05A106MQ5NUNC/C15525
