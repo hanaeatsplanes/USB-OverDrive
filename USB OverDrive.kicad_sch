@@ -3426,7 +3426,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:LP5912-1.1DRV"
+		(symbol "Regulator_Linear:LP5912-1.2DRV"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3438,7 +3438,7 @@
 					)
 				)
 			)
-			(property "Value" "LP5912-1.1DRV"
+			(property "Value" "LP5912-1.2DRV"
 				(at 6.35 6.35 0)
 				(effects
 					(font
@@ -3464,7 +3464,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.1V, WSON-6"
+			(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.2V, WSON-6"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3491,7 +3491,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "LP5912-1.1DRV_0_1"
+			(symbol "LP5912-1.2DRV_0_1"
 				(rectangle
 					(start -7.62 -5.08)
 					(end 7.62 5.08)
@@ -3595,7 +3595,7 @@
 					)
 				)
 			)
-			(symbol "LP5912-1.1DRV_1_1"
+			(symbol "LP5912-1.2DRV_1_1"
 				(pin passive line
 					(at 2.54 -7.62 90)
 					(length 2.54)
@@ -4053,7 +4053,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:+1V1"
+		(symbol "power:+1V2"
 			(power)
 			(pin_numbers
 				(hide yes)
@@ -4074,7 +4074,7 @@
 					(hide yes)
 				)
 			)
-			(property "Value" "+1V1"
+			(property "Value" "+1V2"
 				(at 0 3.556 0)
 				(effects
 					(font
@@ -4100,7 +4100,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"+1V1\""
+			(property "Description" "Power symbol creates a global label with name \"+1V2\""
 				(at 0 0 0)
 				(effects
 					(font
@@ -4118,7 +4118,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "+1V1_0_1"
+			(symbol "+1V2_0_1"
 				(polyline
 					(pts
 						(xy -0.762 1.27) (xy 0 2.54)
@@ -4156,7 +4156,7 @@
 					)
 				)
 			)
-			(symbol "+1V1_1_1"
+			(symbol "+1V2_1_1"
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
@@ -5157,7 +5157,7 @@
 		(at 318.77 227.33)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e9fc239e-8de2-4d02-9044-a0b872cbc8a4")
+		(uuid "ef7b1502-ca48-4341-9182-e1c0a71f8351")
 	)
 	(junction
 		(at 358.14 88.9)
@@ -5210,6 +5210,10 @@
 	(no_connect
 		(at 133.35 100.33)
 		(uuid "99607ffb-fd6f-4f60-9d56-dcf160933dd5")
+	)
+	(no_connect
+		(at 303.53 222.25)
+		(uuid "b39cc136-54e1-4961-8bf2-66e9176e7e63")
 	)
 	(no_connect
 		(at 383.54 139.7)
@@ -7470,89 +7474,6 @@
 			(justify left bottom)
 		)
 		(uuid "f90db466-e084-4874-a47f-607eccfaa5ca")
-	)
-	(symbol
-		(lib_id "Regulator_Linear:LP5912-1.1DRV")
-		(at 308.61 229.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0232d317-dc9c-464e-8845-0907c702f45f")
-		(property "Reference" "U5"
-			(at 308.61 219.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1.1V"
-			(at 308.61 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
-			(at 308.61 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5912.pdf"
-			(at 308.61 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.1V, WSON-6"
-			(at 308.61 229.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "ea907f6c-21e9-4749-8fc5-9b542ecf60fe")
-		)
-		(pin "7"
-			(uuid "b7d716a4-70ad-46e9-aff5-1e357b28521e")
-		)
-		(pin "5"
-			(uuid "b4e37c0e-44ce-4fc8-ac76-ec95cab594fe")
-		)
-		(pin "2"
-			(uuid "4739a74a-1aae-49c5-b465-64d68f806389")
-		)
-		(pin "1"
-			(uuid "20c7b345-9a75-466d-a9ba-361611ad30b4")
-		)
-		(pin "6"
-			(uuid "d40572ab-7016-4115-889c-84348c50ad36")
-		)
-		(pin "3"
-			(uuid "40983d4f-69b9-415d-a618-cc9c83d1baf4")
-		)
-		(instances
-			(project ""
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "U5")
-					(unit 1)
-				)
-			)
-		)
 	)
 	(symbol
 		(lib_id "power:+3V3")
@@ -14601,6 +14522,138 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+1V2")
+		(at 323.85 227.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b642382f-0707-462a-b8cd-5fd4d969c80b")
+		(property "Reference" "#PWR01"
+			(at 323.85 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V2"
+			(at 323.85 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 323.85 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 323.85 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V2\""
+			(at 323.85 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f948bbf3-f4ac-47c4-942f-3ec94e42dee2")
+		)
+		(instances
+			(project ""
+				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+1V2")
+		(at 383.54 88.9 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b80a4e24-5496-4f7d-bd3a-44f77218ea48")
+		(property "Reference" "#PWR05"
+			(at 383.54 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+1V2"
+			(at 383.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 383.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 383.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V2\""
+			(at 383.54 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c40a768a-b345-4902-925a-081df3425ba2")
+		)
+		(instances
+			(project "USB OverDrive"
+				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 332.74 86.36 0)
 		(unit 1)
@@ -14667,6 +14720,89 @@
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
 					(reference "C28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Regulator_Linear:LP5912-1.2DRV")
+		(at 308.61 229.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ba4ab2d4-1985-4adc-8e6e-6ec8b597c604")
+		(property "Reference" "U5"
+			(at 308.61 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1.2V"
+			(at 308.61 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SON:WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm_ThermalVias"
+			(at 308.61 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/lp5912.pdf"
+			(at 308.61 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "500-mA Ultra-Low-Noise Low-IQ LDO, 1.2V, WSON-6"
+			(at 308.61 229.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d4552164-ea91-473a-8517-8458d8821a12")
+		)
+		(pin "3"
+			(uuid "cbf87bed-b4f9-4f63-9e9e-4ee0f6f674b8")
+		)
+		(pin "7"
+			(uuid "bb81ddc9-877b-4e23-990f-429c2a4f00c8")
+		)
+		(pin "2"
+			(uuid "208f8667-1595-4db9-b40a-f04fc3bdd5ac")
+		)
+		(pin "5"
+			(uuid "c41f88aa-11b7-4d16-aed1-ddf1bd191135")
+		)
+		(pin "4"
+			(uuid "949c8eba-f704-4ec6-96f7-777d185575ce")
+		)
+		(pin "6"
+			(uuid "f0f58129-6a20-45f7-bfde-74221d0bf729")
+		)
+		(instances
+			(project ""
+				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -14977,72 +15113,6 @@
 			(project "USB OverDrive"
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
 					(reference "C24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+1V1")
-		(at 383.54 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cc15ae54-e711-45f2-b34f-084c9c6666cb")
-		(property "Reference" "#PWR045"
-			(at 383.54 92.71 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+1V1"
-			(at 383.54 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 383.54 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 383.54 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V1\""
-			(at 383.54 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "480cf11f-a75a-41d2-9533-f1e3cabf8eee")
-		)
-		(instances
-			(project ""
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -16445,72 +16515,6 @@
 			(project ""
 				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
 					(reference "C14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+1V1")
-		(at 323.85 227.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fbcf7d20-8d6f-45b9-aa4e-7b38c48657b5")
-		(property "Reference" "#PWR041"
-			(at 323.85 231.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+1V1"
-			(at 323.85 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 323.85 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 323.85 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+1V1\""
-			(at 323.85 227.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6f70ec7e-7632-4844-8b00-b3c881bc5cfb")
-		)
-		(instances
-			(project ""
-				(path "/9f4f980f-0400-41ee-bd37-1287cc19a6b4"
-					(reference "#PWR041")
 					(unit 1)
 				)
 			)

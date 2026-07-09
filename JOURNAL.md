@@ -1,6 +1,6 @@
 # USB OverDrive — Journal Export
 
-Total Time: 5 hours
+Total Time: 7 hours
 
 - Exported at: 2026-07-06T19:14:23Z
 - Project ID: 4151
@@ -85,3 +85,7 @@ i have the crystal and power from the upstream(? the one that goes to the laptop
 <img width="107" height="34" alt="image" src="https://github.com/user-attachments/assets/d9b3ad82-556d-4069-a3fb-bf17ea0ab679" />
 
 I finished routing everything!!! omg peak... i did not expect to get this far in today, although i do have some unconnected ground zones whoops... ill fix those tmmr and ship !!!
+
+## Day 3: July 8th
+
+it turns out that JLCPCB doesnt stock the LP5912-1.1DRV... changing it to 1.2V is well within the maximum range that TI is okay with, so i'm doing that
