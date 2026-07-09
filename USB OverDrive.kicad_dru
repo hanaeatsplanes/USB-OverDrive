@@ -1,0 +1,14 @@
+(version 1)
+(rule "USB-C edge-plug P2 edge clearance"
+	(constraint edge_clearance (min 0.19mm))
+	(condition "A.memberOfFootprint('P2')")
+)
+
+# USB-A connectors J5/J6/J7 sit at the board edge; their silkscreen
+# legitimately extends to/past the edge and overlaps solder mask near
+# shield tabs. Suppress all silk_clearance warnings for these connectors.
+(rule "USB-A connector silk clearances"
+	(constraint silk_clearance)
+	(severity ignore)
+	(condition "A.memberOfFootprint('J5') || A.memberOfFootprint('J6') || A.memberOfFootprint('J7')")
+)
