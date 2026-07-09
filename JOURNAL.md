@@ -82,3 +82,6 @@ anyway, after getting those DRC errors fixed, im starting to work on traces:
 
 i have the crystal and power from the upstream(? the one that goes to the laptop) done, so i just need to route D± to the TUSB and route the downstream(?) USBA ones
 
+<img width="107" height="34" alt="image" src="https://github.com/user-attachments/assets/d9b3ad82-556d-4069-a3fb-bf17ea0ab679" />
+
+I finished routing everything!!! omg peak... i did not expect to get this far in today, although i do have some unconnected ground zones whoops... ill fix those tmmr and ship !!!
