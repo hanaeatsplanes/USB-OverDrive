@@ -2,6 +2,7 @@ Category,Item,,Qty,Price,Link
 PCB,,,,$15.00,https://jlcpcb.com
 ,PCB Prototype,,5,$15.00,
 ,PCBA,,2,$128.27,
+,Shipping,,1,$12.54,
 ,,Components (24 items),,$128.27,
 Components,,,,,
 ,JLCPCB,,,$36.54,https://jlcpcb.com/parts
