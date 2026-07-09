@@ -89,3 +89,13 @@ I finished routing everything!!! omg peak... i did not expect to get this far in
 ## Day 3: July 8th
 
 it turns out that JLCPCB doesnt stock the LP5912-1.1DRV... changing it to 1.2V is well within the maximum range that TI is okay with, so i'm doing that
+
+okay so today i:
+* "fixed" all my DRC errors
+* * turns out most of them are just kicad being stingy, jlcpcb will do just fine patpatpat
+* added some dope ass silkscreen
+<img width="2162" height="1256" alt="image" src="https://github.com/user-attachments/assets/35c4b8ab-649d-4897-aa49-376817e437f7" />
+<img width="2162" height="1256" alt="image" src="https://github.com/user-attachments/assets/ce091933-ec50-4dc6-9a3b-448d8a2abfaa" />
+* made everything ship-ready :D
+
+i should be able to ship today :3
