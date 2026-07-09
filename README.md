@@ -4,6 +4,9 @@
 
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?github=https://github.com/hanaeatsplanes/USB-OverDrive/tree/main)
 
+<img width="2162" height="1256" alt="image" src="https://github.com/user-attachments/assets/1072a687-7657-41a9-9381-1f724761d7f6" />
+
+
 ## What even is this??
 
 This is a USB-C -> 3x USB-A hub!
@@ -28,3 +31,5 @@ As a MacBook user, I deseperately need a dongle. I decided to design my own Hack
 <img width="712" height="585" alt="image" src="https://github.com/user-attachments/assets/2a3b65f2-f460-4e0e-94c3-4da597868f12" />
 <img width="761" height="804" alt="image" src="https://github.com/user-attachments/assets/5cc27b3d-5907-41fd-a579-cc49879320df" />
 <img width="643" height="788" alt="image" src="https://github.com/user-attachments/assets/bdc78b07-470a-4b1c-919a-3c852f4e227d" />
+<img width="2162" height="1256" alt="image" src="https://github.com/user-attachments/assets/3cd3a58f-cf97-41b2-8197-881f98016fc8" />
+<img width="2162" height="1256" alt="image" src="https://github.com/user-attachments/assets/49f6e87d-05da-4640-8370-4ea7a0583da0" />
