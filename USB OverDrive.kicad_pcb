@@ -33841,6 +33841,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "e78bcf39-7aae-42f1-bc7c-63d4399e965e")
 			(effects
 				(font
@@ -34482,6 +34483,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "c9d75420-acb8-4938-a42c-59d8d45f91de")
 			(effects
 				(font
@@ -36207,6 +36209,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "a85d3724-f0ee-4b7d-9b99-384c63982170")
 			(effects
 				(font
@@ -39732,6 +39735,7 @@
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "126acf52-cfd7-4f1f-90d5-d99860ac62aa")
 			(effects
 				(font
